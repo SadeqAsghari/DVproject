@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Life Expectancy Visualization</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="asset/style.css" />
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="asset/js/choropleth.js"></script>
+    <script src="asset/js/line_chart.js"></script>
+    <script src="asset/js/dual_line_chart.js"></script>
+    <script src="asset/js/butterfly_chart.js"></script>
+    <script src="asset/js/scatter.js"></script>
+  </head>
+  <body>
+    <header class="p-6 text-center">
+      <h1 class="text-4xl font-bold text-white">
+        Life Expectancy Visualization
+      </h1>
+      <nav class="mt-4">
+        <ul class="flex justify-center space-x-4">
+          <li><a href="#landing-page" class="hover:text-blue-200">Home</a></li>
+          <li>
+            <a href="#description" class="hover:text-blue-200">Global view</a>
+          </li>
+
+          <li>
+            <a href="#line-chart-section" class="hover:text-blue-200"
+              >Line Chart</a
+            >
+          </li>
+          <li>
+            <a href="#dual-line-chart-section" class="hover:text-blue-200"
+              >Dual Line Chart</a
+            >
+          </li>
+          <li>
+            <a href="#butterfly-chart-section" class="hover:text-blue-200"
+              >Butterfly Chart</a
+            >
+          </li>
+          <li>
+            <a href="#scatter-plot-section" class="hover:text-blue-200"
+              >Scatter Plot</a
+            >
+          </li>
+          <li><a href="#about" class="hover:text-blue-200">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section
+      id="landing-page"
+      class="h-screen flex flex-col items-center justify-center text-center text-white landing-page"
+      style="margin: auto auto"
+    >
+      <h2 class="text-5xl font-bold mb-4">Exploring Life Expectancy</h2>
+      <p class="text-xl mb-8" style="text-align: justify; max-width: 80%">
+        Life expectancy is a critical indicator of a population's overall health
+        and well-being, representing the average number of years a person can
+        expect to live based on current mortality rates. It reflects the quality
+        of healthcare, lifestyle, and environmental conditions in a country. For
+        governments, understanding life expectancy is essential for planning and
+        implementing effective public health policies, allocating resources, and
+        improving healthcare services. It helps identify health disparities and
+        target interventions where they are most needed. For individuals, life
+        expectancy offers insights into their own health prospects and the
+        importance of healthy living. It emphasizes the need for preventive
+        care, healthy habits, and access to quality healthcare to enhance
+        longevity and quality of life.
+      </p>
+      <a
+        href="#description"
+        class="bg-white text-blue-600 py-2 px-4 rounded-full hover:bg-gray-200"
+        style="background-color: rgb(75, 150, 91); color: aliceblue"
+        >Begin exploring</a
+      >
+    </section>
+
+    <section
+      id="description"
+      class="container mt-4 p-4 explanation-section"
+      style="margin-top: 20px"
+    >
+      <h2 class="section-title">Life Expectancy Around the World</h2>
+      <p class="section-content">
+        The choropleth map illustrates the average life expectancy of countries
+        worldwide for selected years. From this visualization, we can observe
+        significant geographic disparities in life expectancy. Developed regions
+        such as North America, Europe, and parts of Asia often display higher
+        life expectancy rates, typically over 75 years. In contrast, many
+        countries in Africa show lower life expectancy rates, often below 60
+        years. This map highlights the stark differences in healthcare quality,
+        economic stability, and living conditions across the globe. By selecting
+        different years, we can track progress or setbacks in various regions,
+        providing insights into the long-term effectiveness of health policies
+        and development programs.
+      </p>
+    </section>
+
+    <div id="choropleth" class="container mt-4 p-4 flex flex-col items-center">
+      <div class="w-full mb-4">
+        <label
+          for="year-select"
+          class="block text-gray-700 text-sm font-bold mb-2"
+          >Select Year:</label
+        >
+        <select
+          id="year-select"
+          class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
+        ></select>
+      </div>
+      <div class="flex w-full">
+        <div id="legend" class="legend p-4 w-1/4"></div>
+        <div id="map" class="flex-1 relative">
+          <svg class="w-full h-full"></svg>
+          <div class="tooltip" style="opacity: 0"></div>
+        </div>
+      </div>
+    </div>
+
+    <section
+      id="line-chart-section"
+      class="container mt-4 p-4 explanation-section"
+    >
+      <h2 class="section-title">Country-wise Life Expectancy Trend</h2>
+      <p class="section-content">
+        The country-wise life expectancy trend chart provides a historical view
+        of life expectancy for selected countries from 2000 to 2015. Analyzing
+        this chart, we can identify overall trends of improvement or decline in
+        life expectancy within each country.For instance, countries that have
+        seen consistent improvements may indicate effective healthcare policies,
+        economic growth, and successful public health interventions. Conversely,
+        countries with stagnant or declining trends may face challenges such as
+        political instability, poor healthcare infrastructure, or widespread
+        diseases. This chart also allows for comparative analysis, showing how
+        different countries have progressed over the same period.
+      </p>
+      <div class="line-chart-container flex flex-col items-center">
+        <div class="w-full mb-4">
+          <label
+            for="country-select"
+            class="block text-gray-700 text-sm font-bold mb-2"
+            >Select Country:</label
+          >
+          <select
+            id="country-select"
+            class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
+          ></select>
+        </div>
+        <div id="line-chart" class="w-full h-96">
+          <svg class="w-full h-full"></svg>
+          <div class="tooltip" style="opacity: 0"></div>
+        </div>
+      </div>
+    </section>
+
+    <section
+      id="dual-line-chart-section"
+      class="container mt-4 p-4 explanation-section"
+    >
+      <h2 class="section-title">
+        Infant Deaths Rate in Developed vs Developing Countries
+      </h2>
+      <p class="section-content">
+        The dual line chart compares the average infant death rates between
+        developed and developing countries from 2000 to 2015. The chart
+        typically reveals a substantial gap between the two categories, with
+        developed countries exhibiting significantly lower infant death rates.
+        Over the years, we may observe a gradual decline in infant mortality in
+        both developed and developing countries, indicating improvements in
+        maternal and child healthcare services. However, the rate of decline
+        might be steeper in developed countries, reflecting better healthcare
+        access and higher investment in health services. This chart underscores
+        the ongoing need to address healthcare disparities between developed and
+        developing nations.
+      </p>
+      <div class="line-chart-container flex flex-col items-center">
+        <div id="dual-line-chart" class="w-full h-96">
+          <svg class="w-full h-full"></svg>
+          <div class="tooltip" style="opacity: 0"></div>
+        </div>
+      </div>
+    </section>
+
+    <section
+      id="butterfly-chart-section"
+      class="container mt-4 p-4 explanation-section"
+    >
+      <h2 class="section-title">GDP Rates Comparison</h2>
+      <p class="section-content">
+        The butterfly chart compares the average GDP rates of developed and
+        developing countries from 2000 to 2015. The chart shows a clear
+        distinction in economic performance, with developed countries
+        consistently achieving higher GDP rates. This economic disparity
+        highlights the challenges faced by developing countries in achieving
+        economic growth and stability. Over time, we may observe trends such as
+        economic recovery, growth spurts, or recessions, which can correlate
+        with global economic conditions, trade policies, and internal economic
+        reforms. This chart emphasizes the link between economic prosperity and
+        health outcomes, as countries with higher GDP rates often have better
+        healthcare systems and higher life expectancy.
+      </p>
+      <div class="butterfly-chart-container flex flex-col items-center">
+        <div id="butterfly-chart" class="w-full h-120">
+          <svg class="w-full h-full"></svg>
+          <div id="butter" class="tooltip" style="opacity: 0"></div>
+        </div>
+      </div>
+    </section>
+
+    <section
+      id="scatter-plot-section"
+      class="container mt-4 p-4 explanation-section"
+    >
+      <h2 class="section-title">
+        Correlation Between Life Expectancy and Diseases
+      </h2>
+      <p class="section-content">
+        The scatter plot visualizes the correlation between life expectancy and
+        the prevalence of diseases (Hepatitis, Measles, Polio, Diphtheria) for
+        various countries, categorized by their development status, from 2000 to
+        2015. This chart reveals important insights into how specific diseases
+        impact life expectancy. Generally, developed countries with lower
+        disease prevalence tend to cluster at higher life expectancy levels,
+        while developing countries with higher disease prevalence show lower
+        life expectancy. By selecting different years and diseases, we can see
+        how targeted health interventions and vaccination programs have affected
+        disease prevalence and overall life expectancy. The color coding for
+        developed and developing countries further highlights the health
+        disparities influenced by economic and healthcare resources
+      </p>
+      <div class="scatter-plot-container flex flex-col items-center">
+        <div class="w-full mb-4 flex">
+          <div class="w-1/2 pr-2">
+            <label
+              for="scatter-year-select"
+              class="block text-gray-700 text-sm font-bold mb-2"
+              >Select Year:</label
+            >
+            <select
+              id="scatter-year-select"
+              class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
+            ></select>
+          </div>
+          <div class="w-1/2 pl-2">
+            <label
+              for="scatter-disease-select"
+              class="block text-gray-700 text-sm font-bold mb-2"
+              >Select Disease:</label
+            >
+            <select
+              id="scatter-disease-select"
+              class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
+            >
+              <option value="Hepatitis B">Hepatitis</option>
+              <option value="Measles">Measles</option>
+              <option value="Polio">Polio</option>
+              <option value="Diphtheria">Diphtheria</option>
+            </select>
+          </div>
+        </div>
+        <div id="scatter-plot" class="w-full h-96">
+          <svg class="w-full h-full"></svg>
+          <div id="scatter-tooltip" class="tooltip" style="opacity: 0"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="container mt-4 p-4 explanation-section">
+      <h2 class="section-title">About This Visualization</h2>
+      <p class="section-content">
+        These charts provide a comprehensive view of global health trends and
+        disparities. They emphasize the interconnectedness of economic
+        development, healthcare quality, and public health policies. The
+        visualizations reveal that while significant progress has been made in
+        improving life expectancy and reducing infant mortality, substantial
+        gaps remain between developed and developing countries. These insights
+        can guide policymakers, healthcare professionals, and international
+        organizations in prioritizing interventions, allocating resources, and
+        formulating strategies to improve global health outcomes and reduce
+        disparities.
+      </p>
+    </section>
+
+    <footer>
+      <p>Created by Mohammad Sadeq Asghari</p>
+    </footer>
+
+    <a href="#landing-page" class="return-button">↑</a>
+  </body>
+</html>

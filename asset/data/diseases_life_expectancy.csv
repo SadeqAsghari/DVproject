@@ -1,0 +1,2376 @@
+Country,Year,Status,Life Expectancy,Hepatitis B,Measles,Polio,Diphtheria
+Afghanistan,2015,Developing,65.0,65.0,1154,6.0,65.0
+Afghanistan,2014,Developing,59.9,62.0,492,58.0,62.0
+Afghanistan,2013,Developing,59.9,64.0,430,62.0,64.0
+Afghanistan,2012,Developing,59.5,67.0,2787,67.0,67.0
+Afghanistan,2011,Developing,59.2,68.0,3013,68.0,68.0
+Afghanistan,2010,Developing,58.8,66.0,1989,66.0,66.0
+Afghanistan,2009,Developing,58.6,63.0,2861,63.0,63.0
+Afghanistan,2008,Developing,58.1,64.0,1599,64.0,64.0
+Afghanistan,2007,Developing,57.5,63.0,1141,63.0,63.0
+Afghanistan,2006,Developing,57.3,64.0,1990,58.0,58.0
+Afghanistan,2005,Developing,57.3,66.0,1296,58.0,58.0
+Afghanistan,2004,Developing,57.0,67.0,466,5.0,5.0
+Afghanistan,2003,Developing,56.7,65.0,798,41.0,41.0
+Afghanistan,2002,Developing,56.2,64.0,2486,36.0,36.0
+Afghanistan,2001,Developing,55.3,63.0,8762,35.0,33.0
+Afghanistan,2000,Developing,54.8,62.0,6532,24.0,24.0
+Albania,2015,Developing,77.8,99.0,0,99.0,99.0
+Albania,2014,Developing,77.5,98.0,0,98.0,98.0
+Albania,2013,Developing,77.2,99.0,0,99.0,99.0
+Albania,2012,Developing,76.9,99.0,9,99.0,99.0
+Albania,2011,Developing,76.6,99.0,28,99.0,99.0
+Albania,2010,Developing,76.2,99.0,10,99.0,99.0
+Albania,2009,Developing,76.1,98.0,0,98.0,98.0
+Albania,2008,Developing,75.3,99.0,0,99.0,99.0
+Albania,2007,Developing,75.9,98.0,22,99.0,98.0
+Albania,2006,Developing,74.2,98.0,68,97.0,97.0
+Albania,2005,Developing,73.5,98.0,6,97.0,98.0
+Albania,2004,Developing,73.0,99.0,7,98.0,97.0
+Albania,2003,Developing,72.8,97.0,8,97.0,97.0
+Albania,2002,Developing,73.3,96.0,16,98.0,98.0
+Albania,2001,Developing,73.6,96.0,18,97.0,97.0
+Albania,2000,Developing,72.6,96.0,662,97.0,97.0
+Algeria,2015,Developing,75.6,95.0,63,95.0,95.0
+Algeria,2014,Developing,75.4,95.0,0,95.0,95.0
+Algeria,2013,Developing,75.3,95.0,25,95.0,95.0
+Algeria,2012,Developing,75.1,95.0,18,95.0,95.0
+Algeria,2011,Developing,74.9,95.0,112,95.0,95.0
+Algeria,2010,Developing,74.7,95.0,103,95.0,95.0
+Algeria,2009,Developing,74.4,94.0,107,94.0,95.0
+Algeria,2008,Developing,74.1,91.0,217,92.0,93.0
+Algeria,2007,Developing,73.8,9.0,0,95.0,95.0
+Algeria,2006,Developing,73.4,8.0,944,95.0,95.0
+Algeria,2005,Developing,72.9,83.0,2302,88.0,88.0
+Algeria,2004,Developing,72.3,81.0,3289,86.0,86.0
+Angola,2015,Developing,52.4,64.0,118,7.0,64.0
+Angola,2014,Developing,51.7,64.0,11699,68.0,64.0
+Angola,2013,Developing,51.1,77.0,8523,67.0,77.0
+Angola,2012,Developing,56.0,75.0,4458,75.0,75.0
+Angola,2011,Developing,51.0,72.0,1449,73.0,71.0
+Angola,2010,Developing,49.6,77.0,1190,81.0,77.0
+Angola,2009,Developing,49.1,61.0,2807,63.0,6.0
+Angola,2008,Developing,48.7,69.0,265,65.0,69.0
+Angola,2007,Developing,48.2,73.0,1014,75.0,73.0
+Antigua and Barbuda,2015,Developing,76.4,99.0,0,86.0,99.0
+Antigua and Barbuda,2014,Developing,76.2,99.0,0,96.0,99.0
+Antigua and Barbuda,2013,Developing,76.1,99.0,0,98.0,99.0
+Antigua and Barbuda,2012,Developing,75.9,98.0,0,97.0,98.0
+Antigua and Barbuda,2011,Developing,75.7,99.0,0,99.0,99.0
+Antigua and Barbuda,2010,Developing,75.6,98.0,0,99.0,98.0
+Antigua and Barbuda,2009,Developing,75.4,98.0,0,98.0,99.0
+Antigua and Barbuda,2008,Developing,75.2,98.0,0,99.0,99.0
+Antigua and Barbuda,2007,Developing,75.0,97.0,0,98.0,99.0
+Antigua and Barbuda,2006,Developing,74.8,99.0,0,99.0,99.0
+Antigua and Barbuda,2005,Developing,74.6,99.0,0,98.0,99.0
+Antigua and Barbuda,2004,Developing,74.4,97.0,0,97.0,97.0
+Antigua and Barbuda,2003,Developing,74.2,99.0,0,99.0,99.0
+Antigua and Barbuda,2002,Developing,74.0,99.0,0,93.0,98.0
+Antigua and Barbuda,2001,Developing,73.8,96.0,0,99.0,97.0
+Argentina,2015,Developing,76.3,94.0,0,93.0,94.0
+Argentina,2014,Developing,76.2,94.0,1,92.0,94.0
+Argentina,2013,Developing,76.0,94.0,0,99.0,94.0
+Argentina,2012,Developing,75.9,91.0,2,99.0,91.0
+Argentina,2011,Developing,75.7,91.0,3,93.0,91.0
+Argentina,2010,Developing,75.5,94.0,17,95.0,94.0
+Argentina,2009,Developing,75.6,94.0,3,97.0,94.0
+Argentina,2008,Developing,75.4,9.0,0,94.0,93.0
+Argentina,2007,Developing,74.8,85.0,0,92.0,91.0
+Argentina,2006,Developing,75.2,84.0,0,92.0,91.0
+Argentina,2005,Developing,74.9,88.0,0,95.0,98.0
+Argentina,2004,Developing,74.7,81.0,0,91.0,98.0
+Argentina,2003,Developing,74.1,73.0,0,95.0,96.0
+Argentina,2002,Developing,74.1,66.0,0,94.0,93.0
+Armenia,2015,Developing,74.8,94.0,33,96.0,94.0
+Armenia,2014,Developing,74.6,93.0,13,95.0,93.0
+Armenia,2013,Developing,74.4,95.0,10,96.0,95.0
+Armenia,2012,Developing,74.4,95.0,0,96.0,95.0
+Armenia,2011,Developing,73.9,95.0,0,96.0,95.0
+Armenia,2010,Developing,73.5,94.0,2,96.0,94.0
+Armenia,2009,Developing,73.3,93.0,0,94.0,93.0
+Armenia,2008,Developing,73.2,89.0,0,91.0,89.0
+Armenia,2007,Developing,73.5,85.0,1,9.0,88.0
+Armenia,2006,Developing,72.9,78.0,137,87.0,87.0
+Armenia,2005,Developing,73.0,91.0,2281,92.0,9.0
+Armenia,2004,Developing,73.0,91.0,1783,93.0,91.0
+Armenia,2003,Developing,72.7,93.0,4,96.0,94.0
+Armenia,2002,Developing,72.6,91.0,40,96.0,94.0
+Armenia,2001,Developing,72.6,69.0,69,97.0,94.0
+Armenia,2000,Developing,72.0,55.0,15,96.0,93.0
+Australia,2015,Developed,82.8,93.0,74,93.0,93.0
+Australia,2014,Developed,82.7,91.0,340,92.0,92.0
+Australia,2013,Developed,82.5,91.0,158,91.0,91.0
+Australia,2012,Developed,82.3,91.0,199,92.0,92.0
+Australia,2011,Developed,82.0,92.0,190,92.0,92.0
+Australia,2010,Developed,81.9,92.0,70,92.0,92.0
+Australia,2009,Developed,81.7,94.0,104,92.0,92.0
+Australia,2008,Developed,81.3,94.0,65,92.0,92.0
+Australia,2007,Developed,81.3,94.0,11,92.0,92.0
+Australia,2006,Developed,81.2,95.0,0,92.0,92.0
+Australia,2005,Developed,81.0,95.0,10,92.0,92.0
+Australia,2004,Developed,86.0,95.0,70,92.0,92.0
+Australia,2003,Developed,83.0,95.0,91,92.0,93.0
+Australia,2002,Developed,79.9,95.0,32,92.0,92.0
+Australia,2001,Developed,79.9,94.0,141,91.0,92.0
+Austria,2015,Developed,81.5,93.0,309,93.0,93.0
+Austria,2014,Developed,81.4,98.0,117,98.0,98.0
+Austria,2013,Developed,81.1,95.0,0,95.0,95.0
+Austria,2012,Developed,88.0,92.0,36,92.0,92.0
+Austria,2011,Developed,88.0,89.0,68,89.0,89.0
+Austria,2010,Developed,84.0,86.0,52,86.0,86.0
+Austria,2009,Developed,82.0,83.0,49,83.0,83.0
+Austria,2008,Developed,84.0,83.0,448,83.0,83.0
+Austria,2007,Developed,81.0,85.0,20,85.0,85.0
+Austria,2006,Developed,79.8,83.0,23,83.0,83.0
+Austria,2005,Developed,79.4,86.0,9,86.0,86.0
+Austria,2004,Developed,79.3,83.0,15,83.0,83.0
+Austria,2003,Developed,78.8,83.0,90,84.0,84.0
+Austria,2002,Developed,78.7,81.0,0,82.0,83.0
+Austria,2001,Developed,78.6,44.0,0,83.0,84.0
+Austria,2000,Developed,78.1,33.0,0,71.0,81.0
+Azerbaijan,2015,Developing,72.7,96.0,0,98.0,96.0
+Azerbaijan,2014,Developing,72.5,94.0,0,97.0,94.0
+Azerbaijan,2013,Developing,72.2,93.0,164,96.0,93.0
+Azerbaijan,2012,Developing,71.9,88.0,0,92.0,89.0
+Azerbaijan,2011,Developing,71.6,84.0,0,91.0,87.0
+Azerbaijan,2010,Developing,71.1,8.0,0,85.0,81.0
+Azerbaijan,2009,Developing,78.0,74.0,0,84.0,81.0
+Azerbaijan,2008,Developing,73.0,68.0,5,85.0,81.0
+Azerbaijan,2007,Developing,73.0,62.0,0,81.0,79.0
+Azerbaijan,2006,Developing,69.2,52.0,222,8.0,78.0
+Azerbaijan,2005,Developing,68.4,49.0,1238,79.0,75.0
+Azerbaijan,2004,Developing,68.4,5.0,827,78.0,77.0
+Azerbaijan,2003,Developing,67.8,51.0,1978,79.0,77.0
+Azerbaijan,2002,Developing,67.8,5.0,4353,8.0,76.0
+Bahamas,2015,Developing,76.1,95.0,0,95.0,95.0
+Bahamas,2014,Developing,75.4,96.0,0,96.0,96.0
+Bahamas,2013,Developing,74.8,97.0,0,97.0,97.0
+Bahamas,2012,Developing,74.9,96.0,0,99.0,98.0
+Bahamas,2011,Developing,75.0,95.0,0,97.0,98.0
+Bahamas,2010,Developing,75.0,98.0,0,97.0,99.0
+Bahamas,2009,Developing,74.6,95.0,0,97.0,96.0
+Bahamas,2008,Developing,74.5,9.0,0,93.0,93.0
+Bahamas,2007,Developing,74.4,93.0,0,95.0,95.0
+Bahamas,2006,Developing,74.2,96.0,0,94.0,95.0
+Bahamas,2005,Developing,74.1,93.0,0,93.0,93.0
+Bahamas,2004,Developing,73.8,93.0,0,92.0,93.0
+Bahamas,2003,Developing,73.2,88.0,0,93.0,92.0
+Bahamas,2002,Developing,73.1,89.0,0,93.0,94.0
+Bahamas,2001,Developing,72.9,21.0,0,98.0,99.0
+Bahrain,2015,Developing,76.9,98.0,0,98.0,98.0
+Bahrain,2014,Developing,76.8,98.0,46,98.0,98.0
+Bahrain,2013,Developing,76.7,99.0,0,99.0,99.0
+Bahrain,2012,Developing,76.5,99.0,0,99.0,99.0
+Bahrain,2011,Developing,76.1,99.0,0,99.0,99.0
+Bahrain,2010,Developing,76.1,99.0,0,99.0,99.0
+Bahrain,2009,Developing,76.0,98.0,3,97.0,98.0
+Bahrain,2008,Developing,75.8,97.0,2,97.0,97.0
+Bahrain,2007,Developing,75.6,97.0,7,97.0,97.0
+Bahrain,2006,Developing,75.5,98.0,3,98.0,98.0
+Bahrain,2005,Developing,75.3,98.0,4,98.0,98.0
+Bahrain,2004,Developing,75.2,98.0,11,98.0,98.0
+Bahrain,2003,Developing,75.0,98.0,12,97.0,97.0
+Bahrain,2002,Developing,74.9,98.0,8,98.0,98.0
+Bahrain,2001,Developing,74.7,99.0,5,99.0,99.0
+Bahrain,2000,Developing,74.5,97.0,6,97.0,97.0
+Bangladesh,2015,Developing,71.8,97.0,240,97.0,97.0
+Bangladesh,2014,Developing,71.4,97.0,289,97.0,97.0
+Bangladesh,2013,Developing,71.0,96.0,237,96.0,96.0
+Bangladesh,2012,Developing,77.0,94.0,1986,94.0,94.0
+Bangladesh,2011,Developing,73.0,96.0,5625,96.0,96.0
+Bangladesh,2010,Developing,69.9,94.0,788,94.0,94.0
+Bangladesh,2009,Developing,69.5,97.0,718,97.0,97.0
+Bangladesh,2008,Developing,69.1,96.0,2660,96.0,96.0
+Bangladesh,2007,Developing,68.6,95.0,2924,96.0,94.0
+Bangladesh,2006,Developing,68.2,86.0,6192,95.0,94.0
+Bangladesh,2005,Developing,67.8,45.0,25934,94.0,93.0
+Bangladesh,2004,Developing,67.3,11.0,9743,88.0,99.0
+Bangladesh,2003,Developing,66.8,5.0,4067,9.0,87.0
+Barbados,2015,Developing,75.5,97.0,0,97.0,97.0
+Barbados,2014,Developing,75.4,94.0,0,95.0,94.0
+Barbados,2013,Developing,75.2,91.0,0,91.0,91.0
+Barbados,2012,Developing,75.1,87.0,0,88.0,87.0
+Barbados,2011,Developing,74.9,91.0,0,91.0,91.0
+Barbados,2010,Developing,74.7,86.0,0,9.0,86.0
+Barbados,2009,Developing,74.6,93.0,0,93.0,93.0
+Barbados,2008,Developing,74.4,85.0,0,85.0,85.0
+Barbados,2007,Developing,74.2,93.0,0,93.0,93.0
+Barbados,2006,Developing,74.1,84.0,0,85.0,84.0
+Barbados,2005,Developing,73.9,92.0,0,91.0,92.0
+Barbados,2004,Developing,73.8,93.0,0,93.0,93.0
+Barbados,2003,Developing,73.7,91.0,0,9.0,89.0
+Barbados,2002,Developing,73.5,66.0,0,86.0,87.0
+Barbados,2001,Developing,73.4,18.0,0,93.0,84.0
+Belarus,2015,Developing,72.3,99.0,2,99.0,99.0
+Belarus,2014,Developing,72.0,97.0,64,97.0,97.0
+Belarus,2013,Developing,71.7,98.0,16,98.0,98.0
+Belarus,2012,Developing,71.9,97.0,10,98.0,98.0
+Belarus,2011,Developing,72.0,98.0,50,98.0,98.0
+Belarus,2010,Developing,73.0,96.0,1,99.0,98.0
+Belarus,2009,Developing,70.0,98.0,0,98.0,96.0
+Belarus,2008,Developing,70.0,98.0,0,98.0,97.0
+Belarus,2007,Developing,69.8,91.0,1,9.0,95.0
+Belarus,2006,Developing,68.9,98.0,149,97.0,99.0
+Belarus,2005,Developing,68.1,99.0,1,98.0,99.0
+Belarus,2004,Developing,68.2,99.0,2,99.0,99.0
+Belarus,2003,Developing,67.7,56.0,21,53.0,5.0
+Belarus,2002,Developing,67.2,99.0,14,99.0,99.0
+Belarus,2001,Developing,67.7,93.0,45,99.0,99.0
+Belarus,2000,Developing,68.0,7.0,21,99.0,99.0
+Belgium,2015,Developed,81.1,98.0,47,99.0,99.0
+Belgium,2014,Developed,89.0,98.0,70,99.0,99.0
+Belgium,2013,Developed,87.0,98.0,39,99.0,99.0
+Belgium,2012,Developed,83.0,98.0,109,99.0,99.0
+Belgium,2011,Developed,83.0,97.0,576,98.0,98.0
+Belgium,2010,Developed,80.0,97.0,40,98.0,98.0
+Belgium,2009,Developed,79.8,97.0,33,98.0,98.0
+Belgium,2008,Developed,79.5,98.0,98,99.0,99.0
+Belgium,2007,Developed,79.5,94.0,64,99.0,98.0
+Belgium,2006,Developed,79.4,94.0,15,99.0,98.0
+Belgium,2005,Developed,78.9,77.0,26,97.0,97.0
+Belgium,2004,Developed,78.8,64.0,61,96.0,95.0
+Belgium,2003,Developed,78.3,64.0,44,96.0,95.0
+Belgium,2002,Developed,78.0,6.0,0,96.0,95.0
+Belgium,2001,Developed,78.0,6.0,83,96.0,95.0
+Belgium,2000,Developed,77.6,6.0,0,96.0,95.0
+Belize,2015,Developing,71.0,94.0,0,94.0,94.0
+Belize,2014,Developing,70.0,95.0,0,95.0,95.0
+Belize,2013,Developing,69.8,95.0,0,95.0,95.0
+Belize,2012,Developing,69.4,98.0,0,98.0,98.0
+Belize,2011,Developing,69.4,95.0,0,95.0,95.0
+Belize,2010,Developing,69.5,96.0,0,96.0,96.0
+Belize,2009,Developing,69.5,97.0,0,98.0,97.0
+Belize,2008,Developing,69.6,94.0,0,94.0,94.0
+Belize,2007,Developing,69.6,96.0,0,97.0,96.0
+Belize,2006,Developing,69.4,98.0,0,98.0,98.0
+Belize,2005,Developing,69.0,96.0,0,96.0,96.0
+Belize,2004,Developing,68.7,97.0,0,97.0,97.0
+Belize,2003,Developing,68.4,96.0,0,95.0,96.0
+Belize,2002,Developing,68.5,97.0,0,93.0,89.0
+Belize,2001,Developing,68.2,96.0,0,96.0,96.0
+Belize,2000,Developing,68.3,76.0,0,91.0,91.0
+Benin,2015,Developing,60.0,82.0,55,78.0,82.0
+Benin,2014,Developing,59.7,78.0,786,74.0,78.0
+Benin,2013,Developing,59.5,77.0,637,73.0,77.0
+Benin,2012,Developing,59.3,8.0,288,8.0,8.0
+Benin,2011,Developing,59.1,75.0,426,77.0,75.0
+Benin,2010,Developing,58.7,76.0,392,77.0,76.0
+Benin,2009,Developing,58.4,79.0,1461,8.0,79.0
+Benin,2008,Developing,57.6,75.0,928,77.0,75.0
+Benin,2007,Developing,57.1,82.0,341,82.0,82.0
+Benin,2006,Developing,56.8,74.0,176,76.0,74.0
+Benin,2005,Developing,56.5,7.0,210,73.0,7.0
+Benin,2004,Developing,56.1,75.0,262,74.0,72.0
+Benin,2003,Developing,55.8,73.0,217,75.0,73.0
+Benin,2002,Developing,55.6,15.0,1588,76.0,75.0
+Bhutan,2015,Developing,69.8,99.0,11,98.0,99.0
+Bhutan,2014,Developing,69.4,99.0,0,98.0,99.0
+Bhutan,2013,Developing,69.1,97.0,0,97.0,97.0
+Bhutan,2012,Developing,68.7,97.0,1,97.0,97.0
+Bhutan,2011,Developing,68.3,95.0,10,95.0,95.0
+Bhutan,2010,Developing,67.9,91.0,21,92.0,91.0
+Bhutan,2009,Developing,67.4,93.0,6,93.0,93.0
+Bhutan,2008,Developing,67.0,96.0,7,96.0,96.0
+Bhutan,2007,Developing,66.5,95.0,11,93.0,95.0
+Bhutan,2006,Developing,65.8,95.0,2,96.0,95.0
+Bhutan,2005,Developing,65.0,95.0,11,95.0,95.0
+Bhutan,2004,Developing,64.2,89.0,3,9.0,89.0
+Bhutan,2003,Developing,63.3,95.0,0,96.0,95.0
+Bhutan,2002,Developing,62.5,83.0,27,89.0,86.0
+Bhutan,2001,Developing,61.7,89.0,756,88.0,88.0
+Bhutan,2000,Developing,62.0,98.0,418,98.0,92.0
+Bolivia (Plurinational State of),2015,Developing,77.0,99.0,0,99.0,99.0
+Bolivia (Plurinational State of),2014,Developing,74.0,98.0,0,99.0,98.0
+Bolivia (Plurinational State of),2013,Developing,71.0,94.0,0,95.0,94.0
+Bolivia (Plurinational State of),2012,Developing,69.8,93.0,0,93.0,93.0
+Bolivia (Plurinational State of),2011,Developing,69.3,95.0,0,95.0,95.0
+Bolivia (Plurinational State of),2010,Developing,68.7,91.0,0,9.0,91.0
+Bolivia (Plurinational State of),2009,Developing,68.0,93.0,0,92.0,93.0
+Bolivia (Plurinational State of),2008,Developing,67.4,88.0,0,87.0,88.0
+Bolivia (Plurinational State of),2007,Developing,66.8,84.0,0,85.0,84.0
+Bolivia (Plurinational State of),2006,Developing,66.2,83.0,0,82.0,83.0
+Bolivia (Plurinational State of),2005,Developing,65.7,85.0,0,84.0,85.0
+Bolivia (Plurinational State of),2004,Developing,65.1,84.0,0,84.0,84.0
+Bolivia (Plurinational State of),2003,Developing,64.5,8.0,0,82.0,88.0
+Bolivia (Plurinational State of),2002,Developing,63.9,77.0,0,76.0,77.0
+Bolivia (Plurinational State of),2001,Developing,63.3,77.0,0,71.0,71.0
+Bolivia (Plurinational State of),2000,Developing,62.6,77.0,122,74.0,75.0
+Bosnia and Herzegovina,2015,Developing,77.4,82.0,1677,74.0,82.0
+Bosnia and Herzegovina,2014,Developing,77.2,89.0,3000,86.0,86.0
+Bosnia and Herzegovina,2013,Developing,77.0,91.0,0,87.0,89.0
+Bosnia and Herzegovina,2012,Developing,76.8,92.0,22,87.0,92.0
+Bosnia and Herzegovina,2011,Developing,76.9,88.0,10,89.0,88.0
+Bosnia and Herzegovina,2010,Developing,76.4,89.0,45,9.0,89.0
+Bosnia and Herzegovina,2009,Developing,76.1,9.0,22,9.0,9.0
+Bosnia and Herzegovina,2008,Developing,76.0,88.0,8,92.0,91.0
+Bosnia and Herzegovina,2007,Developing,75.4,94.0,166,95.0,95.0
+Bosnia and Herzegovina,2006,Developing,75.7,9.0,17,91.0,87.0
+Bosnia and Herzegovina,2005,Developing,75.0,93.0,23,95.0,93.0
+Bosnia and Herzegovina,2004,Developing,75.5,36.0,28,87.0,84.0
+Botswana,2015,Developing,65.7,95.0,0,96.0,95.0
+Botswana,2014,Developing,65.1,95.0,1,96.0,95.0
+Botswana,2013,Developing,64.2,95.0,1,96.0,95.0
+Botswana,2012,Developing,63.4,95.0,7,96.0,95.0
+Botswana,2011,Developing,62.2,95.0,8,96.0,95.0
+Botswana,2010,Developing,61.1,95.0,853,96.0,95.0
+Botswana,2009,Developing,59.2,94.0,184,96.0,96.0
+Botswana,2008,Developing,57.5,94.0,0,96.0,96.0
+Botswana,2007,Developing,56.9,93.0,1,96.0,96.0
+Botswana,2006,Developing,54.8,93.0,6,96.0,96.0
+Botswana,2005,Developing,51.7,92.0,5,96.0,96.0
+Botswana,2004,Developing,48.1,91.0,1,96.0,96.0
+Botswana,2003,Developing,46.4,9.0,59,96.0,96.0
+Botswana,2002,Developing,46.0,88.0,7,97.0,97.0
+Botswana,2001,Developing,46.7,87.0,1,97.0,97.0
+Botswana,2000,Developing,47.8,86.0,2672,97.0,97.0
+Brazil,2015,Developing,75.0,96.0,214,98.0,96.0
+Brazil,2014,Developing,74.8,96.0,876,96.0,93.0
+Brazil,2013,Developing,74.7,96.0,220,96.0,97.0
+Brazil,2012,Developing,74.5,96.0,2,96.0,95.0
+Brazil,2011,Developing,74.1,98.0,43,98.0,99.0
+Brazil,2010,Developing,73.8,96.0,68,99.0,99.0
+Brazil,2009,Developing,73.6,99.0,0,99.0,99.0
+Brazil,2008,Developing,73.4,96.0,0,99.0,99.0
+Brazil,2007,Developing,73.3,99.0,0,99.0,99.0
+Brazil,2006,Developing,73.0,99.0,57,99.0,99.0
+Brazil,2005,Developing,72.7,98.0,6,99.0,99.0
+Brazil,2004,Developing,72.0,96.0,0,99.0,99.0
+Brazil,2003,Developing,71.8,97.0,2,99.0,99.0
+Brazil,2002,Developing,71.4,92.0,1,99.0,99.0
+Brazil,2001,Developing,71.0,91.0,1,99.0,98.0
+Brazil,2000,Developing,75.0,94.0,36,99.0,98.0
+Brunei Darussalam,2015,Developing,77.7,99.0,4,99.0,99.0
+Brunei Darussalam,2014,Developing,77.6,99.0,1,99.0,99.0
+Brunei Darussalam,2013,Developing,77.1,98.0,0,99.0,99.0
+Brunei Darussalam,2012,Developing,78.3,99.0,1,99.0,99.0
+Brunei Darussalam,2011,Developing,77.4,93.0,4,99.0,97.0
+Brunei Darussalam,2010,Developing,76.9,96.0,0,99.0,95.0
+Brunei Darussalam,2009,Developing,76.8,96.0,2,99.0,99.0
+Brunei Darussalam,2008,Developing,77.2,96.0,3,97.0,98.0
+Brunei Darussalam,2007,Developing,76.0,97.0,0,95.0,99.0
+Brunei Darussalam,2006,Developing,76.3,99.0,0,94.0,97.0
+Brunei Darussalam,2005,Developing,76.2,99.0,9,93.0,94.0
+Brunei Darussalam,2004,Developing,76.4,99.0,16,92.0,92.0
+Brunei Darussalam,2003,Developing,76.0,99.0,24,99.0,92.0
+Brunei Darussalam,2002,Developing,74.8,99.0,0,99.0,94.0
+Brunei Darussalam,2001,Developing,74.7,99.0,11,99.0,97.0
+Brunei Darussalam,2000,Developing,74.4,99.0,42,99.0,99.0
+Bulgaria,2015,Developed,74.5,92.0,0,91.0,91.0
+Bulgaria,2014,Developed,74.3,95.0,0,88.0,88.0
+Bulgaria,2013,Developed,74.1,95.0,14,95.0,95.0
+Bulgaria,2012,Developed,73.9,95.0,1,95.0,95.0
+Bulgaria,2011,Developed,73.7,96.0,157,95.0,95.0
+Bulgaria,2010,Developed,73.4,95.0,22004,94.0,94.0
+Bulgaria,2009,Developed,73.2,96.0,2249,94.0,94.0
+Bulgaria,2008,Developed,72.9,96.0,1,96.0,95.0
+Bulgaria,2007,Developed,72.6,95.0,1,95.0,95.0
+Bulgaria,2006,Developed,72.2,96.0,1,96.0,95.0
+Bulgaria,2005,Developed,72.1,96.0,3,97.0,96.0
+Bulgaria,2004,Developed,72.2,94.0,0,94.0,95.0
+Bulgaria,2003,Developed,72.0,96.0,0,96.0,96.0
+Bulgaria,2002,Developed,71.8,88.0,0,94.0,93.0
+Bulgaria,2001,Developed,71.6,93.0,8,94.0,94.0
+Bulgaria,2000,Developed,71.1,94.0,46,94.0,93.0
+Burkina Faso,2015,Developing,59.9,91.0,99,91.0,91.0
+Burkina Faso,2014,Developing,59.3,91.0,343,91.0,91.0
+Burkina Faso,2013,Developing,59.0,88.0,375,89.0,88.0
+Burkina Faso,2012,Developing,58.6,9.0,7362,9.0,9.0
+Burkina Faso,2011,Developing,58.1,91.0,860,9.0,91.0
+Burkina Faso,2010,Developing,57.5,91.0,2511,9.0,91.0
+Burkina Faso,2009,Developing,56.9,92.0,54118,91.0,92.0
+Burkina Faso,2008,Developing,56.1,93.0,395,92.0,93.0
+Burkina Faso,2007,Developing,55.3,89.0,12,93.0,89.0
+Burkina Faso,2006,Developing,54.3,76.0,125,94.0,86.0
+Burundi,2015,Developing,59.6,94.0,9,94.0,94.0
+Burundi,2014,Developing,59.1,95.0,0,95.0,95.0
+Burundi,2013,Developing,58.6,96.0,0,96.0,96.0
+Burundi,2012,Developing,58.0,96.0,49,96.0,96.0
+Burundi,2011,Developing,57.4,96.0,129,95.0,96.0
+Burundi,2010,Developing,56.8,96.0,495,94.0,96.0
+Burundi,2009,Developing,56.2,94.0,305,96.0,94.0
+Burundi,2008,Developing,55.3,92.0,173,89.0,92.0
+Burundi,2007,Developing,54.8,99.0,43,93.0,99.0
+Burundi,2006,Developing,54.1,92.0,784,88.0,92.0
+Burundi,2005,Developing,53.4,87.0,0,82.0,87.0
+Burundi,2004,Developing,52.6,83.0,2,76.0,83.0
+Côte d'Ivoire,2015,Developing,53.3,83.0,65,81.0,83.0
+Côte d'Ivoire,2014,Developing,52.8,76.0,50,76.0,76.0
+Côte d'Ivoire,2013,Developing,52.3,8.0,48,79.0,8.0
+Côte d'Ivoire,2012,Developing,52.0,82.0,137,83.0,82.0
+Côte d'Ivoire,2011,Developing,51.7,62.0,628,58.0,62.0
+Côte d'Ivoire,2010,Developing,51.5,85.0,441,81.0,85.0
+Côte d'Ivoire,2009,Developing,51.0,81.0,183,77.0,81.0
+Côte d'Ivoire,2008,Developing,54.0,74.0,12,58.0,74.0
+Côte d'Ivoire,2007,Developing,49.9,76.0,5,75.0,76.0
+Côte d'Ivoire,2006,Developing,49.4,77.0,11,76.0,77.0
+Côte d'Ivoire,2005,Developing,48.7,76.0,115,87.0,76.0
+Côte d'Ivoire,2004,Developing,48.2,67.0,3466,76.0,67.0
+Côte d'Ivoire,2003,Developing,48.0,63.0,4770,68.0,61.0
+Côte d'Ivoire,2002,Developing,47.7,48.0,5882,7.0,64.0
+Côte d'Ivoire,2001,Developing,47.8,1.0,5790,7.0,66.0
+Cabo Verde,2015,Developing,73.3,96.0,0,93.0,93.0
+Cabo Verde,2014,Developing,73.0,97.0,0,95.0,95.0
+Cabo Verde,2013,Developing,72.8,94.0,0,93.0,93.0
+Cabo Verde,2012,Developing,72.7,94.0,0,94.0,94.0
+Cabo Verde,2011,Developing,72.6,9.0,0,9.0,9.0
+Cabo Verde,2010,Developing,72.5,98.0,0,99.0,99.0
+Cabo Verde,2009,Developing,72.4,98.0,0,99.0,99.0
+Cabo Verde,2008,Developing,72.4,98.0,0,99.0,99.0
+Cabo Verde,2007,Developing,72.3,96.0,0,98.0,98.0
+Cabo Verde,2006,Developing,72.1,95.0,0,97.0,96.0
+Cabo Verde,2005,Developing,71.8,93.0,0,95.0,95.0
+Cabo Verde,2004,Developing,71.4,91.0,0,94.0,93.0
+Cabo Verde,2003,Developing,71.1,66.0,0,93.0,92.0
+Cabo Verde,2002,Developing,77.0,4.0,0,92.0,91.0
+Cambodia,2015,Developing,68.7,89.0,0,87.0,89.0
+Cambodia,2014,Developing,68.3,88.0,0,87.0,88.0
+Cambodia,2013,Developing,67.8,83.0,0,66.0,83.0
+Cambodia,2012,Developing,67.4,86.0,15,84.0,86.0
+Cambodia,2011,Developing,67.0,88.0,722,87.0,88.0
+Cambodia,2010,Developing,66.6,89.0,1156,88.0,89.0
+Cambodia,2009,Developing,66.1,92.0,4779,95.0,94.0
+Cambodia,2008,Developing,65.6,91.0,4211,91.0,91.0
+Cambodia,2007,Developing,65.0,82.0,394,82.0,82.0
+Cambodia,2006,Developing,64.1,8.0,188,8.0,8.0
+Cameroon,2015,Developing,57.3,84.0,1809,83.0,84.0
+Cameroon,2014,Developing,56.7,87.0,831,86.0,87.0
+Cameroon,2013,Developing,56.4,89.0,760,88.0,89.0
+Cameroon,2012,Developing,55.9,85.0,609,85.0,85.0
+Cameroon,2011,Developing,55.6,82.0,504,8.0,82.0
+Cameroon,2010,Developing,55.3,84.0,240,83.0,84.0
+Cameroon,2009,Developing,54.8,8.0,251,79.0,8.0
+Cameroon,2008,Developing,54.2,84.0,495,82.0,84.0
+Cameroon,2007,Developing,53.6,82.0,100,81.0,82.0
+Cameroon,2006,Developing,53.3,81.0,196,78.0,81.0
+Cameroon,2005,Developing,52.8,79.0,605,79.0,8.0
+Canada,2015,Developing,82.2,55.0,195,91.0,91.0
+Canada,2014,Developing,82.0,55.0,418,91.0,91.0
+Canada,2013,Developing,81.8,55.0,83,91.0,91.0
+Canada,2012,Developing,81.6,7.0,10,99.0,95.0
+Canada,2011,Developing,81.5,7.0,803,87.0,87.0
+Canada,2010,Developing,81.2,56.0,99,88.0,89.0
+Canada,2009,Developing,81.0,42.0,14,89.0,91.0
+Canada,2008,Developing,87.0,28.0,62,89.0,92.0
+Canada,2007,Developing,85.0,14.0,101,9.0,94.0
+Canada,2006,Developing,85.0,14.0,13,95.0,95.0
+Canada,2005,Developing,81.0,14.0,6,93.0,93.0
+Canada,2004,Developing,80.0,14.0,7,91.0,91.0
+Canada,2003,Developing,79.7,14.0,15,88.0,91.0
+Central African Republic,2015,Developing,52.5,47.0,150,47.0,47.0
+Central African Republic,2014,Developing,58.0,47.0,210,47.0,47.0
+Central African Republic,2013,Developing,49.9,23.0,596,23.0,23.0
+Central African Republic,2012,Developing,53.0,47.0,141,47.0,47.0
+Central African Republic,2011,Developing,49.8,47.0,679,47.0,47.0
+Central African Republic,2010,Developing,49.2,45.0,2,46.0,45.0
+Central African Republic,2009,Developing,48.6,42.0,11,45.0,42.0
+Chad,2015,Developing,53.1,46.0,418,52.0,46.0
+Chad,2014,Developing,52.6,37.0,1275,44.0,37.0
+Chad,2013,Developing,52.2,39.0,226,46.0,39.0
+Chad,2012,Developing,51.8,4.0,120,51.0,4.0
+Chad,2011,Developing,51.6,33.0,8650,4.0,33.0
+Chad,2010,Developing,51.2,39.0,194,43.0,39.0
+Chad,2009,Developing,57.0,24.0,165,32.0,24.0
+Chad,2008,Developing,49.6,17.0,63,3.0,19.0
+Chile,2015,Developing,85.0,97.0,9,96.0,96.0
+Chile,2014,Developing,83.0,95.0,0,95.0,95.0
+Chile,2013,Developing,81.0,9.0,0,9.0,91.0
+Chile,2012,Developing,79.9,9.0,0,9.0,9.0
+Chile,2011,Developing,79.8,94.0,6,93.0,94.0
+Chile,2010,Developing,79.1,92.0,0,92.0,92.0
+Chile,2009,Developing,79.3,94.0,1,94.0,94.0
+Chile,2008,Developing,79.6,95.0,0,95.0,95.0
+Chile,2007,Developing,78.9,92.0,0,95.0,96.0
+Chile,2006,Developing,78.9,95.0,0,94.0,94.0
+China,2015,Developing,76.1,99.0,42361,99.0,99.0
+China,2014,Developing,75.8,99.0,52628,99.0,99.0
+China,2013,Developing,75.6,99.0,26883,99.0,99.0
+China,2012,Developing,75.4,99.0,6183,99.0,99.0
+China,2011,Developing,75.2,99.0,9943,99.0,99.0
+China,2010,Developing,75.0,99.0,38159,99.0,99.0
+China,2009,Developing,74.9,99.0,52461,99.0,99.0
+China,2008,Developing,74.5,95.0,131441,99.0,97.0
+China,2007,Developing,74.4,92.0,109023,94.0,93.0
+China,2006,Developing,74.2,91.0,99602,94.0,93.0
+China,2005,Developing,73.9,84.0,124219,87.0,87.0
+China,2004,Developing,73.5,79.0,70549,87.0,87.0
+China,2003,Developing,73.1,75.0,71879,87.0,86.0
+China,2002,Developing,72.7,7.0,58341,86.0,86.0
+China,2001,Developing,72.2,65.0,88962,86.0,86.0
+China,2000,Developing,71.7,6.0,71093,86.0,85.0
+Colombia,2015,Developing,74.8,91.0,1,91.0,91.0
+Colombia,2014,Developing,74.6,9.0,0,9.0,9.0
+Colombia,2013,Developing,74.4,91.0,1,91.0,91.0
+Colombia,2012,Developing,74.3,92.0,1,91.0,91.0
+Colombia,2011,Developing,74.2,85.0,6,85.0,85.0
+Colombia,2010,Developing,73.6,88.0,0,88.0,88.0
+Colombia,2009,Developing,73.6,92.0,0,92.0,92.0
+Colombia,2008,Developing,73.5,92.0,0,92.0,92.0
+Colombia,2007,Developing,73.5,93.0,0,93.0,93.0
+Colombia,2006,Developing,73.1,93.0,0,94.0,93.0
+Colombia,2005,Developing,73.1,93.0,0,93.0,93.0
+Colombia,2004,Developing,72.8,89.0,0,89.0,89.0
+Colombia,2003,Developing,72.4,92.0,0,92.0,92.0
+Colombia,2002,Developing,71.8,78.0,139,83.0,81.0
+Colombia,2001,Developing,71.5,8.0,3,83.0,8.0
+Colombia,2000,Developing,71.4,78.0,1,82.0,79.0
+Comoros,2015,Developing,63.5,91.0,0,92.0,91.0
+Comoros,2014,Developing,63.2,88.0,0,87.0,87.0
+Comoros,2013,Developing,62.9,88.0,0,85.0,87.0
+Comoros,2012,Developing,62.5,89.0,1,85.0,86.0
+Comoros,2011,Developing,62.2,83.0,3,85.0,83.0
+Comoros,2010,Developing,61.8,74.0,0,82.0,74.0
+Comoros,2009,Developing,61.3,83.0,1,84.0,83.0
+Comoros,2008,Developing,61.0,81.0,0,81.0,81.0
+Comoros,2007,Developing,66.0,75.0,0,75.0,75.0
+Comoros,2006,Developing,63.0,69.0,85,69.0,69.0
+Comoros,2005,Developing,60.0,68.0,912,67.0,68.0
+Comoros,2004,Developing,59.8,77.0,0,73.0,76.0
+Comoros,2003,Developing,59.6,28.0,0,8.0,8.0
+Congo,2015,Developing,64.7,8.0,1359,8.0,8.0
+Congo,2014,Developing,64.2,9.0,71,9.0,9.0
+Congo,2013,Developing,63.9,85.0,124,85.0,85.0
+Congo,2012,Developing,63.7,62.0,260,61.0,85.0
+Congo,2011,Developing,62.9,7.0,315,69.0,82.0
+Congo,2010,Developing,62.0,74.0,4,72.0,74.0
+Congo,2009,Developing,68.0,75.0,1,76.0,78.0
+Congo,2008,Developing,59.4,73.0,2,77.0,79.0
+Congo,2007,Developing,58.2,64.0,84,71.0,72.0
+Costa Rica,2015,Developing,79.6,92.0,0,92.0,92.0
+Costa Rica,2014,Developing,79.5,91.0,1,91.0,91.0
+Costa Rica,2013,Developing,79.4,94.0,0,95.0,95.0
+Costa Rica,2012,Developing,79.2,91.0,0,9.0,91.0
+Costa Rica,2011,Developing,79.0,84.0,0,82.0,85.0
+Costa Rica,2010,Developing,78.1,89.0,0,93.0,88.0
+Costa Rica,2009,Developing,79.2,87.0,0,8.0,86.0
+Costa Rica,2008,Developing,78.9,89.0,0,89.0,9.0
+Costa Rica,2007,Developing,78.9,89.0,0,89.0,89.0
+Costa Rica,2006,Developing,78.0,88.0,0,89.0,89.0
+Costa Rica,2005,Developing,78.6,9.0,1,91.0,91.0
+Costa Rica,2004,Developing,77.7,89.0,0,9.0,9.0
+Costa Rica,2003,Developing,78.0,86.0,1,88.0,88.0
+Costa Rica,2002,Developing,78.3,94.0,0,94.0,94.0
+Costa Rica,2001,Developing,77.5,8.0,0,92.0,91.0
+Costa Rica,2000,Developing,77.6,89.0,0,8.0,88.0
+Croatia,2015,Developed,78.0,94.0,206,94.0,94.0
+Croatia,2014,Developed,77.8,95.0,0,95.0,95.0
+Croatia,2013,Developed,77.7,96.0,0,96.0,96.0
+Croatia,2012,Developed,77.1,98.0,2,96.0,96.0
+Croatia,2011,Developed,77.0,97.0,12,96.0,96.0
+Croatia,2010,Developed,76.6,97.0,7,97.0,97.0
+Croatia,2009,Developed,76.3,97.0,2,96.0,96.0
+Croatia,2008,Developed,76.0,97.0,51,96.0,96.0
+Croatia,2007,Developed,75.8,95.0,0,96.0,96.0
+Cuba,2015,Developing,79.1,99.0,0,99.0,99.0
+Cuba,2014,Developing,79.0,97.0,0,99.0,99.0
+Cuba,2013,Developing,78.7,96.0,0,99.0,99.0
+Cuba,2012,Developing,78.7,96.0,0,98.0,99.0
+Cuba,2011,Developing,78.8,96.0,0,99.0,97.0
+Cuba,2010,Developing,78.0,96.0,0,99.0,96.0
+Cuba,2009,Developing,78.1,96.0,0,99.0,96.0
+Cuba,2008,Developing,77.9,95.0,0,99.0,95.0
+Cuba,2007,Developing,78.1,93.0,0,99.0,93.0
+Cuba,2006,Developing,78.0,89.0,0,99.0,89.0
+Cuba,2005,Developing,77.2,95.0,0,99.0,89.0
+Cuba,2004,Developing,77.3,99.0,0,98.0,88.0
+Cuba,2003,Developing,77.4,99.0,0,98.0,72.0
+Cuba,2002,Developing,77.7,98.0,0,98.0,99.0
+Cuba,2001,Developing,76.7,98.0,0,99.0,98.0
+Cuba,2000,Developing,76.9,98.0,0,98.0,95.0
+Cyprus,2015,Developed,85.0,97.0,0,97.0,97.0
+Cyprus,2014,Developed,83.0,96.0,10,99.0,99.0
+Cyprus,2013,Developed,81.0,96.0,0,99.0,99.0
+Cyprus,2012,Developed,80.0,96.0,1,99.0,99.0
+Cyprus,2011,Developed,79.7,96.0,0,99.0,99.0
+Cyprus,2010,Developed,79.5,96.0,18,99.0,99.0
+Cyprus,2009,Developed,79.3,96.0,0,99.0,99.0
+Cyprus,2008,Developed,79.1,93.0,1,97.0,97.0
+Cyprus,2007,Developed,78.9,93.0,0,97.0,97.0
+Cyprus,2006,Developed,78.8,93.0,0,97.0,97.0
+Cyprus,2005,Developed,78.7,88.0,1,98.0,98.0
+Cyprus,2004,Developed,78.6,88.0,0,98.0,98.0
+Cyprus,2003,Developed,78.5,88.0,0,98.0,98.0
+Cyprus,2002,Developed,78.4,88.0,0,98.0,98.0
+Cyprus,2001,Developed,78.2,89.0,0,97.0,97.0
+Cyprus,2000,Developed,78.1,89.0,0,97.0,97.0
+Czechia,2015,Developed,78.8,97.0,9,97.0,97.0
+Czechia,2014,Developed,78.6,99.0,222,99.0,97.0
+Czechia,2013,Developed,78.2,99.0,15,99.0,98.0
+Czechia,2012,Developed,78.0,99.0,22,99.0,99.0
+Czechia,2011,Developed,77.8,99.0,17,99.0,99.0
+Czechia,2010,Developed,77.5,99.0,0,99.0,99.0
+Czechia,2009,Developed,77.1,99.0,5,99.0,99.0
+Czechia,2008,Developed,77.0,99.0,2,99.0,99.0
+Czechia,2007,Developed,76.8,99.0,2,99.0,99.0
+Czechia,2006,Developed,76.5,98.0,7,98.0,98.0
+Czechia,2005,Developed,75.9,99.0,0,96.0,97.0
+Czechia,2004,Developed,75.8,98.0,17,96.0,98.0
+Czechia,2003,Developed,75.2,92.0,30,97.0,97.0
+Czechia,2002,Developed,75.3,86.0,4,97.0,98.0
+Democratic People's Republic of Korea,2015,Developing,76.0,96.0,0,99.0,96.0
+Democratic People's Republic of Korea,2014,Developing,73.0,93.0,3,99.0,93.0
+Democratic People's Republic of Korea,2013,Developing,71.0,93.0,0,99.0,93.0
+Democratic People's Republic of Korea,2012,Developing,69.8,96.0,0,99.0,96.0
+Democratic People's Republic of Korea,2011,Developing,69.4,94.0,0,99.0,94.0
+Democratic People's Republic of Korea,2010,Developing,69.0,93.0,0,99.0,93.0
+Democratic People's Republic of Korea,2009,Developing,68.7,93.0,0,98.0,93.0
+Democratic People's Republic of Korea,2008,Developing,68.6,92.0,8,98.0,92.0
+Democratic People's Republic of Korea,2007,Developing,68.5,92.0,3550,99.0,92.0
+Democratic People's Republic of Korea,2006,Developing,68.5,96.0,0,98.0,89.0
+Democratic People's Republic of Korea,2005,Developing,68.5,92.0,0,97.0,79.0
+Democratic People's Republic of Korea,2004,Developing,68.4,98.0,0,99.0,72.0
+Democratic People's Republic of Korea,2003,Developing,68.1,27.0,0,99.0,68.0
+Democratic Republic of the Congo,2015,Developing,59.8,81.0,5020,78.0,81.0
+Democratic Republic of the Congo,2014,Developing,59.3,8.0,33711,79.0,8.0
+Democratic Republic of the Congo,2013,Developing,58.8,74.0,88381,74.0,74.0
+Democratic Republic of the Congo,2012,Developing,58.3,75.0,72029,76.0,75.0
+Democratic Republic of the Congo,2011,Developing,57.9,74.0,133802,77.0,74.0
+Democratic Republic of the Congo,2010,Developing,57.4,6.0,5407,76.0,6.0
+Democratic Republic of the Congo,2009,Developing,56.7,72.0,57,78.0,72.0
+Democratic Republic of the Congo,2008,Developing,56.3,65.0,12461,64.0,65.0
+Democratic Republic of the Congo,2007,Developing,55.7,7.0,55577,72.0,7.0
+Djibouti,2015,Developing,63.5,84.0,47,84.0,84.0
+Djibouti,2014,Developing,63.0,78.0,0,78.0,78.0
+Djibouti,2013,Developing,62.7,82.0,28,82.0,82.0
+Djibouti,2012,Developing,62.2,81.0,709,81.0,81.0
+Djibouti,2011,Developing,61.8,87.0,49,87.0,87.0
+Djibouti,2010,Developing,61.3,88.0,7,88.0,88.0
+Djibouti,2009,Developing,69.0,89.0,48,89.0,89.0
+Djibouti,2008,Developing,62.0,88.0,143,89.0,89.0
+Djibouti,2007,Developing,59.8,25.0,24,88.0,88.0
+Dominican Republic,2015,Developing,73.9,81.0,0,87.0,85.0
+Dominican Republic,2014,Developing,73.6,89.0,0,9.0,91.0
+Dominican Republic,2013,Developing,73.4,8.0,0,82.0,83.0
+Dominican Republic,2012,Developing,72.1,74.0,0,85.0,85.0
+Dominican Republic,2011,Developing,73.1,8.0,2,84.0,84.0
+Dominican Republic,2010,Developing,72.7,83.0,0,85.0,88.0
+Dominican Republic,2009,Developing,73.6,8.0,0,85.0,82.0
+Dominican Republic,2008,Developing,73.3,81.0,0,86.0,82.0
+Dominican Republic,2007,Developing,72.9,81.0,0,86.0,85.0
+Dominican Republic,2006,Developing,72.3,84.0,0,88.0,89.0
+Dominican Republic,2005,Developing,69.7,87.0,0,86.0,87.0
+Dominican Republic,2004,Developing,69.3,82.0,0,66.0,79.0
+Dominican Republic,2003,Developing,73.0,79.0,0,65.0,79.0
+Dominican Republic,2002,Developing,71.4,63.0,0,74.0,82.0
+Dominican Republic,2001,Developing,71.2,66.0,113,71.0,72.0
+Dominican Republic,2000,Developing,72.0,68.0,253,71.0,78.0
+Ecuador,2015,Developing,76.2,78.0,0,84.0,78.0
+Ecuador,2014,Developing,76.0,83.0,0,84.0,83.0
+Ecuador,2013,Developing,76.0,87.0,0,87.0,87.0
+Ecuador,2012,Developing,75.5,88.0,72,85.0,87.0
+Ecuador,2011,Developing,75.3,88.0,257,85.0,88.0
+Ecuador,2010,Developing,75.0,9.0,0,88.0,91.0
+Ecuador,2009,Developing,75.1,91.0,0,91.0,94.0
+Ecuador,2008,Developing,74.6,93.0,1,94.0,96.0
+Ecuador,2007,Developing,74.7,94.0,0,95.0,96.0
+Ecuador,2006,Developing,74.4,96.0,0,92.0,96.0
+Ecuador,2005,Developing,74.2,92.0,0,89.0,92.0
+Ecuador,2004,Developing,74.4,88.0,0,9.0,88.0
+Ecuador,2003,Developing,74.4,82.0,0,97.0,87.0
+Ecuador,2002,Developing,73.6,75.0,0,88.0,88.0
+Ecuador,2001,Developing,73.4,69.0,2,9.0,89.0
+Ecuador,2000,Developing,72.8,36.0,0,83.0,87.0
+Egypt,2015,Developing,79.0,93.0,5432,93.0,93.0
+Egypt,2014,Developing,78.0,94.0,1314,94.0,94.0
+Egypt,2013,Developing,79.0,97.0,405,97.0,97.0
+Egypt,2012,Developing,72.0,93.0,245,93.0,93.0
+Egypt,2011,Developing,74.0,96.0,26,96.0,96.0
+Egypt,2010,Developing,70.0,97.0,16,97.0,97.0
+Egypt,2009,Developing,69.9,97.0,608,97.0,97.0
+Egypt,2008,Developing,69.8,97.0,668,97.0,97.0
+Egypt,2007,Developing,69.7,98.0,1684,98.0,98.0
+Egypt,2006,Developing,69.5,98.0,953,98.0,98.0
+Egypt,2005,Developing,69.4,98.0,77,98.0,98.0
+Egypt,2004,Developing,69.0,97.0,80,97.0,97.0
+Egypt,2003,Developing,68.6,98.0,164,98.0,98.0
+Egypt,2002,Developing,68.7,97.0,653,97.0,97.0
+Egypt,2001,Developing,68.6,99.0,2150,99.0,99.0
+Egypt,2000,Developing,68.8,98.0,2633,98.0,98.0
+El Salvador,2015,Developing,73.5,91.0,0,92.0,91.0
+El Salvador,2014,Developing,73.3,93.0,0,93.0,94.0
+El Salvador,2013,Developing,73.0,92.0,0,92.0,92.0
+El Salvador,2012,Developing,73.0,92.0,0,93.0,92.0
+El Salvador,2011,Developing,72.0,89.0,0,9.0,89.0
+El Salvador,2010,Developing,72.0,89.0,0,89.0,89.0
+El Salvador,2009,Developing,71.4,91.0,0,91.0,91.0
+El Salvador,2008,Developing,71.7,98.0,0,98.0,98.0
+El Salvador,2007,Developing,71.2,99.0,0,99.0,99.0
+El Salvador,2006,Developing,75.0,96.0,0,96.0,96.0
+El Salvador,2005,Developing,71.0,89.0,0,89.0,89.0
+El Salvador,2004,Developing,70.0,9.0,0,9.0,9.0
+El Salvador,2003,Developing,69.9,94.0,0,93.0,94.0
+El Salvador,2002,Developing,73.0,81.0,0,81.0,81.0
+El Salvador,2001,Developing,68.9,75.0,2,94.0,92.0
+El Salvador,2000,Developing,69.0,99.0,0,98.0,99.0
+Equatorial Guinea,2015,Developing,58.2,16.0,1250,17.0,16.0
+Equatorial Guinea,2014,Developing,57.9,2.0,13,24.0,2.0
+Eritrea,2015,Developing,64.7,95.0,198,95.0,95.0
+Eritrea,2014,Developing,64.4,94.0,127,94.0,94.0
+Eritrea,2013,Developing,64.0,94.0,45,94.0,94.0
+Eritrea,2012,Developing,63.6,94.0,194,94.0,94.0
+Eritrea,2011,Developing,62.9,96.0,48,96.0,96.0
+Eritrea,2010,Developing,62.1,9.0,51,9.0,9.0
+Eritrea,2009,Developing,61.4,92.0,82,92.0,92.0
+Eritrea,2008,Developing,67.0,94.0,0,94.0,94.0
+Eritrea,2007,Developing,62.0,91.0,55,91.0,91.0
+Eritrea,2006,Developing,59.7,94.0,128,94.0,94.0
+Eritrea,2005,Developing,59.4,96.0,19,96.0,96.0
+Eritrea,2004,Developing,59.1,84.0,24,98.0,98.0
+Eritrea,2003,Developing,58.8,91.0,376,95.0,93.0
+Eritrea,2002,Developing,58.5,86.0,460,92.0,9.0
+Estonia,2015,Developing,77.6,91.0,4,93.0,93.0
+Estonia,2014,Developing,77.3,93.0,0,93.0,93.0
+Estonia,2013,Developing,76.9,93.0,2,94.0,94.0
+Estonia,2012,Developing,76.3,94.0,4,94.0,94.0
+Estonia,2011,Developing,76.1,94.0,7,93.0,93.0
+Estonia,2010,Developing,75.6,94.0,0,94.0,94.0
+Estonia,2009,Developing,74.9,95.0,0,95.0,95.0
+Estonia,2008,Developing,74.2,94.0,0,95.0,95.0
+Estonia,2007,Developing,73.0,95.0,1,95.0,95.0
+Estonia,2006,Developing,73.0,95.0,27,95.0,95.0
+Estonia,2005,Developing,72.8,95.0,2,96.0,96.0
+Estonia,2004,Developing,72.3,9.0,0,95.0,94.0
+Ethiopia,2015,Developing,64.8,77.0,17745,75.0,77.0
+Ethiopia,2014,Developing,64.2,77.0,12739,75.0,77.0
+Ethiopia,2013,Developing,63.7,72.0,5253,7.0,72.0
+Ethiopia,2012,Developing,63.3,69.0,4347,7.0,69.0
+Ethiopia,2011,Developing,62.6,65.0,3255,7.0,65.0
+Ethiopia,2010,Developing,61.8,62.0,4235,69.0,61.0
+Ethiopia,2009,Developing,68.0,56.0,1176,65.0,58.0
+Ethiopia,2008,Developing,59.8,52.0,3511,63.0,54.0
+Ethiopia,2007,Developing,58.5,47.0,1446,61.0,5.0
+Fiji,2015,Developing,69.9,99.0,0,99.0,99.0
+Fiji,2014,Developing,69.7,99.0,0,99.0,99.0
+Fiji,2013,Developing,69.6,99.0,0,99.0,99.0
+Fiji,2012,Developing,69.4,99.0,0,99.0,99.0
+Fiji,2011,Developing,69.2,99.0,0,99.0,99.0
+Fiji,2010,Developing,69.1,99.0,0,99.0,99.0
+Fiji,2009,Developing,68.9,99.0,1,99.0,99.0
+Fiji,2008,Developing,68.7,99.0,0,99.0,99.0
+Fiji,2007,Developing,68.6,99.0,0,99.0,99.0
+Fiji,2006,Developing,68.5,99.0,136,98.0,98.0
+Fiji,2005,Developing,68.3,99.0,0,97.0,96.0
+Fiji,2004,Developing,68.1,99.0,37,96.0,95.0
+Fiji,2003,Developing,68.0,99.0,305,95.0,94.0
+Fiji,2002,Developing,67.9,99.0,304,94.0,93.0
+Fiji,2001,Developing,67.8,98.0,17,92.0,91.0
+Fiji,2000,Developing,67.7,98.0,0,91.0,9.0
+France,2015,Developing,82.4,86.0,157,98.0,98.0
+France,2014,Developing,82.2,83.0,267,98.0,98.0
+France,2013,Developing,82.0,74.0,272,99.0,99.0
+France,2012,Developing,81.5,78.0,0,99.0,99.0
+France,2011,Developing,81.7,74.0,14949,99.0,99.0
+France,2010,Developing,81.3,65.0,5048,99.0,99.0
+France,2009,Developing,81.1,51.0,1541,98.0,98.0
+France,2008,Developing,89.0,47.0,604,98.0,98.0
+France,2007,Developing,89.0,42.0,39,99.0,98.0
+France,2006,Developing,86.0,39.0,40,99.0,99.0
+France,2005,Developing,81.0,35.0,36,98.0,98.0
+France,2004,Developing,82.0,35.0,4448,99.0,98.0
+France,2003,Developing,79.3,28.0,0,96.0,97.0
+France,2002,Developing,79.2,29.0,5185,97.0,97.0
+France,2001,Developing,79.0,28.0,0,98.0,97.0
+France,2000,Developing,78.8,26.0,10000,98.0,97.0
+Gabon,2015,Developing,66.0,8.0,27,79.0,8.0
+Gabon,2014,Developing,65.5,7.0,33,68.0,7.0
+Gabon,2013,Developing,64.6,79.0,122,77.0,79.0
+Gabon,2012,Developing,63.5,82.0,2,8.0,82.0
+Gabon,2011,Developing,62.8,75.0,2,75.0,75.0
+Gabon,2010,Developing,62.3,67.0,1,68.0,67.0
+Gabon,2009,Developing,61.7,79.0,0,74.0,76.0
+Gabon,2008,Developing,61.6,82.0,3,81.0,82.0
+Gabon,2007,Developing,61.6,75.0,0,78.0,81.0
+Gabon,2006,Developing,61.4,52.0,90,44.0,45.0
+Gabon,2005,Developing,65.0,28.0,0,44.0,45.0
+Gambia,2015,Developing,61.1,97.0,71,96.0,97.0
+Gambia,2014,Developing,68.0,96.0,1,97.0,96.0
+Gambia,2013,Developing,66.0,97.0,0,96.0,97.0
+Gambia,2012,Developing,62.0,98.0,0,98.0,98.0
+Gambia,2011,Developing,59.8,96.0,0,95.0,96.0
+Gambia,2010,Developing,59.3,97.0,2,97.0,97.0
+Gambia,2009,Developing,59.0,97.0,0,97.0,98.0
+Gambia,2008,Developing,58.7,98.0,0,96.0,96.0
+Gambia,2007,Developing,58.5,97.0,0,94.0,95.0
+Gambia,2006,Developing,58.2,95.0,0,94.0,95.0
+Gambia,2005,Developing,57.7,95.0,0,94.0,95.0
+Gambia,2004,Developing,57.3,95.0,0,88.0,87.0
+Gambia,2003,Developing,57.0,94.0,119,87.0,87.0
+Gambia,2002,Developing,56.6,92.0,32,86.0,87.0
+Gambia,2001,Developing,56.3,91.0,99,85.0,87.0
+Gambia,2000,Developing,55.9,91.0,336,84.0,8.0
+Georgia,2015,Developing,74.4,94.0,431,91.0,94.0
+Georgia,2014,Developing,74.5,91.0,3188,91.0,91.0
+Georgia,2013,Developing,74.5,96.0,7872,94.0,93.0
+Georgia,2012,Developing,74.2,92.0,31,93.0,92.0
+Georgia,2011,Developing,73.9,89.0,64,88.0,94.0
+Georgia,2010,Developing,73.8,95.0,22,88.0,92.0
+Georgia,2009,Developing,73.2,54.0,23,93.0,88.0
+Georgia,2008,Developing,73.9,89.0,56,9.0,92.0
+Georgia,2007,Developing,74.4,94.0,44,88.0,98.0
+Georgia,2006,Developing,73.9,84.0,334,89.0,88.0
+Georgia,2005,Developing,73.9,79.0,1356,82.0,82.0
+Georgia,2004,Developing,72.3,64.0,6847,66.0,78.0
+Georgia,2003,Developing,72.7,48.0,216,74.0,75.0
+Georgia,2002,Developing,71.7,51.0,199,89.0,84.0
+Georgia,2001,Developing,73.0,61.0,35,83.0,87.0
+Georgia,2000,Developing,71.8,55.0,50,81.0,8.0
+Germany,2015,Developed,81.0,88.0,2464,94.0,95.0
+Germany,2014,Developed,89.0,88.0,443,94.0,95.0
+Germany,2013,Developed,86.0,88.0,1771,94.0,95.0
+Germany,2012,Developed,86.0,88.0,166,94.0,95.0
+Germany,2011,Developed,85.0,88.0,1607,94.0,95.0
+Germany,2010,Developed,81.0,88.0,780,94.0,95.0
+Germany,2009,Developed,80.0,88.0,574,95.0,96.0
+Germany,2008,Developed,79.9,87.0,917,95.0,96.0
+Germany,2007,Developed,79.8,86.0,567,95.0,96.0
+Germany,2006,Developed,79.6,87.0,2307,94.0,96.0
+Germany,2005,Developed,79.2,9.0,778,95.0,96.0
+Germany,2004,Developed,79.1,88.0,121,96.0,96.0
+Germany,2003,Developed,78.5,9.0,779,96.0,97.0
+Germany,2002,Developed,78.4,87.0,4657,97.0,93.0
+Germany,2001,Developed,78.3,86.0,6024,96.0,93.0
+Germany,2000,Developed,78.0,84.0,0,94.0,9.0
+Ghana,2015,Developing,62.4,88.0,23,88.0,88.0
+Ghana,2014,Developing,62.1,98.0,124,93.0,98.0
+Ghana,2013,Developing,61.9,9.0,319,91.0,9.0
+Ghana,2012,Developing,61.6,92.0,1613,91.0,92.0
+Ghana,2011,Developing,61.2,91.0,120,91.0,91.0
+Ghana,2010,Developing,69.0,94.0,641,94.0,94.0
+Ghana,2009,Developing,66.0,94.0,101,94.0,94.0
+Ghana,2008,Developing,63.0,93.0,82,92.0,93.0
+Ghana,2007,Developing,59.9,94.0,6,94.0,94.0
+Ghana,2006,Developing,59.4,84.0,420,84.0,84.0
+Ghana,2005,Developing,58.9,84.0,435,85.0,84.0
+Ghana,2004,Developing,58.3,8.0,60,81.0,8.0
+Ghana,2003,Developing,57.9,8.0,1939,8.0,8.0
+Ghana,2002,Developing,57.6,8.0,12289,8.0,78.0
+Greece,2015,Developing,81.0,96.0,1,99.0,99.0
+Greece,2014,Developing,88.0,96.0,1,99.0,99.0
+Greece,2013,Developing,86.0,98.0,3,99.0,99.0
+Greece,2012,Developing,84.0,98.0,3,99.0,99.0
+Greece,2011,Developing,85.0,95.0,40,99.0,99.0
+Greece,2010,Developing,83.0,95.0,149,99.0,99.0
+Greece,2009,Developing,80.0,95.0,2,99.0,99.0
+Greece,2008,Developing,79.9,95.0,1,99.0,99.0
+Greece,2007,Developing,79.4,95.0,2,99.0,99.0
+Greece,2006,Developing,79.7,94.0,0,98.0,98.0
+Greece,2005,Developing,79.3,93.0,122,96.0,96.0
+Greece,2004,Developing,79.2,92.0,1,95.0,95.0
+Greece,2003,Developing,79.1,92.0,0,93.0,94.0
+Greece,2002,Developing,79.0,91.0,5,92.0,92.0
+Greece,2001,Developing,78.7,9.0,12,9.0,91.0
+Greece,2000,Developing,78.2,89.0,56,89.0,89.0
+Grenada,2015,Developing,73.6,92.0,0,99.0,92.0
+Grenada,2014,Developing,73.5,97.0,0,81.0,97.0
+Grenada,2013,Developing,73.3,97.0,0,98.0,97.0
+Grenada,2012,Developing,73.1,97.0,0,98.0,97.0
+Grenada,2011,Developing,72.9,94.0,0,95.0,95.0
+Grenada,2010,Developing,72.6,97.0,0,94.0,97.0
+Grenada,2009,Developing,72.4,99.0,0,99.0,99.0
+Grenada,2008,Developing,72.1,99.0,0,99.0,99.0
+Grenada,2007,Developing,71.9,96.0,0,96.0,96.0
+Grenada,2006,Developing,71.7,91.0,0,91.0,91.0
+Grenada,2005,Developing,71.5,99.0,0,99.0,99.0
+Grenada,2004,Developing,73.0,83.0,0,84.0,83.0
+Grenada,2003,Developing,71.1,97.0,0,98.0,97.0
+Grenada,2002,Developing,79.0,98.0,0,98.0,98.0
+Grenada,2001,Developing,77.0,96.0,0,96.0,96.0
+Guatemala,2015,Developing,71.9,74.0,0,9.0,74.0
+Guatemala,2014,Developing,71.7,73.0,0,65.0,73.0
+Guatemala,2013,Developing,71.4,85.0,0,84.0,85.0
+Guatemala,2012,Developing,71.3,96.0,0,94.0,96.0
+Guatemala,2011,Developing,71.1,88.0,0,88.0,88.0
+Guatemala,2010,Developing,77.0,94.0,0,94.0,94.0
+Guatemala,2009,Developing,76.0,92.0,0,92.0,92.0
+Guatemala,2008,Developing,79.0,95.0,0,96.0,95.0
+Guatemala,2007,Developing,75.0,85.0,0,85.0,85.0
+Guatemala,2006,Developing,69.7,89.0,0,9.0,89.0
+Guatemala,2005,Developing,69.2,87.0,0,87.0,87.0
+Guinea,2015,Developing,59.0,54.0,243,42.0,54.0
+Guinea,2014,Developing,58.1,51.0,175,42.0,51.0
+Guinea,2013,Developing,58.8,63.0,53,63.0,63.0
+Guinea,2012,Developing,58.4,62.0,6,63.0,62.0
+Guinea,2011,Developing,58.1,63.0,11,63.0,63.0
+Guinea,2010,Developing,57.8,64.0,45,62.0,64.0
+Guinea,2009,Developing,57.3,57.0,264,6.0,57.0
+Guinea,2008,Developing,56.8,57.0,89,59.0,6.0
+Guinea,2007,Developing,56.4,57.0,3,46.0,63.0
+Guinea-Bissau,2015,Developing,58.9,87.0,153,87.0,87.0
+Guinea-Bissau,2014,Developing,58.4,87.0,1,87.0,87.0
+Guinea-Bissau,2013,Developing,58.1,87.0,0,87.0,87.0
+Guinea-Bissau,2012,Developing,57.6,87.0,0,87.0,87.0
+Guinea-Bissau,2011,Developing,57.1,86.0,0,85.0,86.0
+Guinea-Bissau,2010,Developing,56.7,83.0,26,82.0,83.0
+Guinea-Bissau,2009,Developing,56.3,8.0,0,78.0,8.0
+Guyana,2015,Developing,66.2,95.0,0,92.0,95.0
+Guyana,2014,Developing,66.0,98.0,0,97.0,98.0
+Guyana,2013,Developing,65.9,98.0,0,98.0,98.0
+Guyana,2012,Developing,65.8,97.0,0,97.0,97.0
+Guyana,2011,Developing,65.6,93.0,0,93.0,93.0
+Guyana,2010,Developing,65.9,95.0,0,95.0,95.0
+Guyana,2009,Developing,66.1,98.0,0,97.0,98.0
+Guyana,2008,Developing,66.3,93.0,0,93.0,93.0
+Guyana,2007,Developing,65.7,94.0,0,94.0,94.0
+Guyana,2006,Developing,65.2,93.0,0,92.0,93.0
+Guyana,2005,Developing,65.0,93.0,0,93.0,93.0
+Guyana,2004,Developing,65.1,91.0,0,91.0,91.0
+Guyana,2003,Developing,65.3,9.0,0,91.0,9.0
+Guyana,2002,Developing,65.3,91.0,0,93.0,91.0
+Guyana,2001,Developing,65.4,85.0,0,9.0,85.0
+Haiti,2015,Developing,63.5,6.0,0,56.0,6.0
+Haiti,2014,Developing,63.1,48.0,0,55.0,48.0
+Haiti,2013,Developing,62.7,68.0,0,67.0,68.0
+Honduras,2015,Developing,74.6,97.0,0,97.0,97.0
+Honduras,2014,Developing,74.5,97.0,0,97.0,97.0
+Honduras,2013,Developing,74.3,97.0,0,97.0,97.0
+Honduras,2012,Developing,74.1,97.0,0,97.0,97.0
+Honduras,2011,Developing,73.9,97.0,0,97.0,97.0
+Honduras,2010,Developing,73.6,97.0,0,97.0,97.0
+Honduras,2009,Developing,73.4,97.0,0,97.0,97.0
+Honduras,2008,Developing,73.2,92.0,0,93.0,93.0
+Honduras,2007,Developing,73.0,93.0,0,94.0,94.0
+Honduras,2006,Developing,72.8,94.0,0,94.0,95.0
+Honduras,2005,Developing,72.5,97.0,0,98.0,98.0
+Honduras,2004,Developing,72.2,93.0,0,94.0,94.0
+Honduras,2003,Developing,71.9,91.0,0,92.0,92.0
+Honduras,2002,Developing,71.6,94.0,0,95.0,95.0
+Honduras,2001,Developing,71.3,95.0,0,99.0,96.0
+Honduras,2000,Developing,71.0,93.0,0,88.0,94.0
+India,2015,Developing,68.3,87.0,90387,86.0,87.0
+India,2014,Developing,68.0,79.0,79563,84.0,85.0
+India,2013,Developing,67.6,7.0,13822,82.0,83.0
+India,2012,Developing,67.3,73.0,18668,79.0,82.0
+India,2011,Developing,66.8,44.0,33634,79.0,82.0
+India,2010,Developing,66.4,38.0,31458,76.0,79.0
+India,2009,Developing,66.0,37.0,56188,73.0,74.0
+India,2008,Developing,65.5,29.0,44258,69.0,7.0
+India,2007,Developing,65.2,6.0,41144,67.0,64.0
+India,2006,Developing,64.8,6.0,64185,66.0,65.0
+India,2005,Developing,64.4,8.0,36711,65.0,65.0
+India,2004,Developing,64.0,6.0,55443,58.0,63.0
+Indonesia,2015,Developing,69.1,78.0,15099,8.0,78.0
+Indonesia,2014,Developing,68.9,78.0,12943,8.0,78.0
+Indonesia,2013,Developing,68.7,85.0,8419,86.0,85.0
+Indonesia,2012,Developing,68.5,83.0,15489,84.0,83.0
+Indonesia,2011,Developing,68.3,81.0,21893,81.0,81.0
+Indonesia,2010,Developing,68.1,83.0,18869,82.0,81.0
+Indonesia,2009,Developing,67.9,82.0,20818,85.0,78.0
+Indonesia,2008,Developing,67.7,82.0,15369,83.0,77.0
+Indonesia,2007,Developing,67.5,76.0,19456,77.0,73.0
+Indonesia,2006,Developing,67.3,66.0,20422,78.0,72.0
+Indonesia,2005,Developing,67.2,65.0,15853,79.0,72.0
+Indonesia,2004,Developing,65.3,64.0,29171,79.0,71.0
+Indonesia,2003,Developing,66.9,64.0,24457,8.0,71.0
+Indonesia,2002,Developing,66.7,63.0,14492,8.0,7.0
+Indonesia,2001,Developing,66.5,62.0,3825,77.0,76.0
+Indonesia,2000,Developing,66.3,65.0,3344,72.0,75.0
+Iran (Islamic Republic of),2015,Developing,75.5,98.0,615,98.0,98.0
+Iran (Islamic Republic of),2014,Developing,75.4,99.0,99,99.0,99.0
+Iran (Islamic Republic of),2013,Developing,75.3,99.0,189,98.0,98.0
+Iran (Islamic Republic of),2012,Developing,75.1,98.0,332,99.0,99.0
+Iran (Islamic Republic of),2011,Developing,74.7,99.0,73,99.0,99.0
+Iran (Islamic Republic of),2010,Developing,74.1,99.0,538,99.0,99.0
+Iran (Islamic Republic of),2009,Developing,73.3,99.0,262,99.0,99.0
+Iran (Islamic Republic of),2008,Developing,72.7,99.0,127,99.0,99.0
+Iran (Islamic Republic of),2007,Developing,72.4,97.0,133,98.0,99.0
+Iran (Islamic Republic of),2006,Developing,72.2,98.0,220,99.0,98.0
+Iran (Islamic Republic of),2005,Developing,72.0,94.0,7,95.0,95.0
+Iran (Islamic Republic of),2004,Developing,71.8,95.0,3,98.0,99.0
+Iran (Islamic Republic of),2003,Developing,75.0,98.0,11644,99.0,99.0
+Iran (Islamic Republic of),2002,Developing,71.2,99.0,9554,99.0,99.0
+Iran (Islamic Republic of),2001,Developing,78.0,94.0,9582,95.0,96.0
+Iran (Islamic Republic of),2000,Developing,73.0,99.0,11874,99.0,99.0
+Iraq,2015,Developing,68.9,56.0,1433,63.0,58.0
+Iraq,2014,Developing,67.9,62.0,1317,67.0,64.0
+Iraq,2013,Developing,69.5,66.0,669,7.0,68.0
+Iraq,2012,Developing,76.0,61.0,15,7.0,69.0
+Iraq,2011,Developing,77.0,77.0,15,8.0,79.0
+Iraq,2010,Developing,76.0,72.0,492,74.0,74.0
+Iraq,2009,Developing,74.0,75.0,30328,78.0,78.0
+Iraq,2008,Developing,69.3,66.0,5494,71.0,69.0
+Iraq,2007,Developing,65.9,56.0,230,74.0,57.0
+Iraq,2006,Developing,64.7,59.0,474,63.0,59.0
+Iraq,2005,Developing,66.8,65.0,908,69.0,65.0
+Iraq,2004,Developing,67.2,62.0,9081,69.0,74.0
+Iraq,2003,Developing,66.5,63.0,0,73.0,75.0
+Iraq,2002,Developing,74.0,65.0,0,76.0,77.0
+Iraq,2001,Developing,72.0,66.0,4088,8.0,78.0
+Iraq,2000,Developing,70.0,67.0,726,83.0,8.0
+Ireland,2015,Developed,81.4,95.0,4,95.0,95.0
+Ireland,2014,Developed,81.2,95.0,33,96.0,96.0
+Ireland,2013,Developed,81.0,95.0,51,96.0,96.0
+Ireland,2012,Developed,85.0,95.0,107,95.0,95.0
+Ireland,2011,Developed,84.0,95.0,285,95.0,95.0
+Ireland,2010,Developed,86.0,46.0,443,94.0,94.0
+Israel,2015,Developing,82.5,96.0,80,95.0,95.0
+Israel,2014,Developing,82.2,97.0,6,95.0,95.0
+Israel,2013,Developing,82.1,97.0,50,96.0,96.0
+Israel,2012,Developing,81.8,97.0,211,94.0,94.0
+Israel,2011,Developing,81.8,98.0,70,94.0,94.0
+Israel,2010,Developing,81.7,97.0,23,95.0,95.0
+Israel,2009,Developing,81.5,98.0,5,96.0,96.0
+Israel,2008,Developing,81.0,99.0,931,94.0,94.0
+Israel,2007,Developing,84.0,99.0,539,95.0,95.0
+Israel,2006,Developing,84.0,96.0,9,94.0,95.0
+Israel,2005,Developing,80.0,96.0,2,95.0,93.0
+Israel,2004,Developing,81.0,99.0,116,95.0,95.0
+Israel,2003,Developing,79.7,98.0,124,93.0,93.0
+Israel,2002,Developing,79.3,98.0,2,91.0,9.0
+Israel,2001,Developing,79.3,96.0,19,93.0,92.0
+Israel,2000,Developing,78.9,98.0,36,93.0,93.0
+Italy,2015,Developed,82.7,93.0,159,93.0,93.0
+Italy,2014,Developed,82.5,95.0,0,95.0,95.0
+Italy,2013,Developed,82.3,96.0,0,96.0,96.0
+Italy,2012,Developed,82.0,96.0,376,96.0,97.0
+Italy,2011,Developed,82.0,96.0,5189,96.0,96.0
+Italy,2010,Developed,81.8,96.0,372,96.0,96.0
+Italy,2009,Developed,81.6,96.0,351,96.0,96.0
+Italy,2008,Developed,81.5,96.0,1617,96.0,96.0
+Italy,2007,Developed,81.3,97.0,321,97.0,97.0
+Italy,2006,Developed,81.2,96.0,439,97.0,96.0
+Italy,2005,Developed,88.0,96.0,135,97.0,95.0
+Italy,2004,Developed,89.0,96.0,599,97.0,94.0
+Italy,2003,Developed,79.9,95.0,10982,97.0,96.0
+Italy,2002,Developed,80.0,95.0,9385,96.0,93.0
+Italy,2001,Developed,79.8,95.0,0,96.0,93.0
+Italy,2000,Developed,79.4,94.0,1457,97.0,87.0
+Jamaica,2015,Developing,76.2,91.0,0,91.0,91.0
+Jamaica,2014,Developing,75.8,92.0,0,93.0,92.0
+Jamaica,2013,Developing,75.6,93.0,0,86.0,93.0
+Jamaica,2012,Developing,75.3,96.0,0,96.0,96.0
+Jamaica,2011,Developing,75.2,92.0,1,93.0,92.0
+Jamaica,2010,Developing,75.0,94.0,0,94.0,94.0
+Jamaica,2009,Developing,74.7,9.0,0,9.0,9.0
+Jamaica,2008,Developing,74.5,92.0,2,91.0,91.0
+Jamaica,2007,Developing,74.2,92.0,0,94.0,92.0
+Jamaica,2006,Developing,74.0,97.0,0,99.0,95.0
+Jamaica,2005,Developing,73.5,99.0,0,99.0,99.0
+Jamaica,2004,Developing,73.3,98.0,0,97.0,98.0
+Jamaica,2003,Developing,73.1,36.0,0,99.0,96.0
+Jordan,2015,Developing,74.1,99.0,0,99.0,99.0
+Jordan,2014,Developing,74.0,98.0,20,98.0,98.0
+Jordan,2013,Developing,73.9,98.0,120,98.0,98.0
+Jordan,2012,Developing,73.7,98.0,3,98.0,98.0
+Jordan,2011,Developing,73.6,98.0,0,98.0,98.0
+Jordan,2010,Developing,73.4,98.0,0,98.0,98.0
+Jordan,2009,Developing,73.3,98.0,0,98.0,98.0
+Jordan,2008,Developing,73.1,97.0,2,98.0,97.0
+Jordan,2007,Developing,73.0,98.0,41,98.0,98.0
+Jordan,2006,Developing,72.8,98.0,1,98.0,98.0
+Jordan,2005,Developing,72.4,95.0,28,95.0,95.0
+Jordan,2004,Developing,72.5,95.0,21,95.0,95.0
+Jordan,2003,Developing,72.3,97.0,76,97.0,97.0
+Jordan,2002,Developing,72.1,95.0,19,95.0,95.0
+Jordan,2001,Developing,71.9,97.0,61,97.0,99.0
+Jordan,2000,Developing,71.7,93.0,32,94.0,91.0
+Kazakhstan,2015,Developing,72.0,98.0,526,98.0,98.0
+Kazakhstan,2014,Developing,69.9,95.0,321,95.0,95.0
+Kazakhstan,2013,Developing,69.5,99.0,73,98.0,98.0
+Kazakhstan,2012,Developing,69.1,95.0,55,98.0,99.0
+Kazakhstan,2011,Developing,68.5,99.0,127,99.0,99.0
+Kazakhstan,2010,Developing,67.8,99.0,4,98.0,99.0
+Kazakhstan,2009,Developing,67.8,99.0,0,99.0,98.0
+Kazakhstan,2008,Developing,66.6,99.0,20,99.0,99.0
+Kazakhstan,2007,Developing,65.3,94.0,13,94.0,93.0
+Kazakhstan,2006,Developing,65.0,99.0,109,99.0,99.0
+Kazakhstan,2005,Developing,64.6,94.0,16118,99.0,98.0
+Kazakhstan,2004,Developing,64.7,99.0,2204,99.0,82.0
+Kazakhstan,2003,Developing,64.4,99.0,24,99.0,99.0
+Kazakhstan,2002,Developing,64.7,95.0,18,95.0,95.0
+Kazakhstan,2001,Developing,64.4,95.0,94,95.0,95.0
+Kazakhstan,2000,Developing,63.9,99.0,245,96.0,97.0
+Kenya,2015,Developing,63.4,89.0,95,83.0,89.0
+Kenya,2014,Developing,62.9,92.0,354,93.0,92.0
+Kenya,2013,Developing,62.6,93.0,190,94.0,87.0
+Kenya,2012,Developing,62.1,94.0,0,94.0,94.0
+Kenya,2011,Developing,61.2,96.0,2395,97.0,96.0
+Kenya,2010,Developing,63.0,9.0,95,9.0,9.0
+Kenya,2009,Developing,59.1,88.0,1218,89.0,88.0
+Kenya,2008,Developing,57.9,88.0,1282,88.0,88.0
+Kenya,2007,Developing,56.8,81.0,1516,76.0,81.0
+Kenya,2006,Developing,55.3,8.0,1847,77.0,8.0
+Kenya,2005,Developing,54.1,76.0,153,7.0,76.0
+Kenya,2004,Developing,53.0,73.0,20,73.0,73.0
+Kenya,2003,Developing,52.4,73.0,65,75.0,73.0
+Kenya,2002,Developing,52.1,84.0,766,83.0,84.0
+Kiribati,2015,Developing,66.3,82.0,0,8.0,78.0
+Kiribati,2014,Developing,66.1,75.0,0,79.0,75.0
+Kiribati,2013,Developing,65.8,95.0,0,91.0,95.0
+Kiribati,2012,Developing,65.7,94.0,0,92.0,94.0
+Kiribati,2011,Developing,65.5,95.0,0,95.0,99.0
+Kiribati,2010,Developing,65.3,91.0,0,95.0,91.0
+Kiribati,2009,Developing,65.2,86.0,0,84.0,86.0
+Kiribati,2008,Developing,65.1,83.0,0,74.0,82.0
+Kiribati,2007,Developing,65.0,96.0,0,93.0,94.0
+Kiribati,2006,Developing,65.0,88.0,0,86.0,86.0
+Kiribati,2005,Developing,64.9,5.0,0,74.0,79.0
+Kiribati,2004,Developing,64.8,67.0,0,61.0,62.0
+Kiribati,2003,Developing,64.7,73.0,0,79.0,7.0
+Kiribati,2002,Developing,64.6,79.0,0,96.0,77.0
+Kiribati,2001,Developing,64.3,85.0,0,88.0,85.0
+Kiribati,2000,Developing,64.1,9.0,0,9.0,9.0
+Kuwait,2015,Developing,74.7,99.0,18,99.0,99.0
+Kuwait,2014,Developing,74.6,96.0,55,94.0,95.0
+Kuwait,2013,Developing,74.5,99.0,62,99.0,99.0
+Kuwait,2012,Developing,74.3,98.0,27,98.0,98.0
+Kuwait,2011,Developing,74.2,99.0,32,99.0,99.0
+Kuwait,2010,Developing,74.0,99.0,13,98.0,98.0
+Kuwait,2009,Developing,73.9,99.0,0,99.0,99.0
+Kuwait,2008,Developing,73.8,99.0,0,99.0,99.0
+Kuwait,2007,Developing,73.7,99.0,0,99.0,99.0
+Kuwait,2006,Developing,73.6,99.0,0,99.0,99.0
+Kuwait,2005,Developing,73.6,99.0,10,99.0,99.0
+Kuwait,2004,Developing,73.5,94.0,23,98.0,98.0
+Kuwait,2003,Developing,73.4,99.0,0,99.0,99.0
+Kuwait,2002,Developing,73.3,99.0,0,99.0,99.0
+Kuwait,2001,Developing,73.2,99.0,0,99.0,99.0
+Kuwait,2000,Developing,73.2,95.0,6,94.0,98.0
+Kyrgyzstan,2015,Developing,71.1,97.0,17779,97.0,97.0
+Kyrgyzstan,2014,Developing,78.0,96.0,318,95.0,96.0
+Kyrgyzstan,2013,Developing,77.0,97.0,1,97.0,97.0
+Kyrgyzstan,2012,Developing,69.9,96.0,0,94.0,96.0
+Kyrgyzstan,2011,Developing,69.4,96.0,222,94.0,96.0
+Kyrgyzstan,2010,Developing,68.8,96.0,0,88.0,96.0
+Kyrgyzstan,2009,Developing,68.5,96.0,1,96.0,95.0
+Kyrgyzstan,2008,Developing,67.6,97.0,16,95.0,95.0
+Kyrgyzstan,2007,Developing,67.2,94.0,40,94.0,94.0
+Kyrgyzstan,2006,Developing,66.7,9.0,27,93.0,92.0
+Kyrgyzstan,2005,Developing,66.9,97.0,53,98.0,98.0
+Kyrgyzstan,2004,Developing,67.1,99.0,8,98.0,99.0
+Kyrgyzstan,2003,Developing,66.6,99.0,6,98.0,98.0
+Kyrgyzstan,2002,Developing,66.7,99.0,2,99.0,98.0
+Kyrgyzstan,2001,Developing,67.2,57.0,17,99.0,99.0
+Kyrgyzstan,2000,Developing,66.6,44.0,16,99.0,99.0
+Lao People's Democratic Republic,2015,Developing,65.7,89.0,56,89.0,89.0
+Lao People's Democratic Republic,2014,Developing,65.3,88.0,339,88.0,88.0
+Lao People's Democratic Republic,2013,Developing,64.9,87.0,71,86.0,87.0
+Lao People's Democratic Republic,2012,Developing,64.4,79.0,32,78.0,79.0
+Lao People's Democratic Republic,2011,Developing,64.0,78.0,113,79.0,78.0
+Lao People's Democratic Republic,2010,Developing,63.6,74.0,153,76.0,74.0
+Lao People's Democratic Republic,2009,Developing,63.1,67.0,78,67.0,67.0
+Lao People's Democratic Republic,2008,Developing,62.6,61.0,174,6.0,61.0
+Lao People's Democratic Republic,2007,Developing,62.1,5.0,1678,46.0,5.0
+Lao People's Democratic Republic,2006,Developing,61.5,57.0,58,56.0,57.0
+Lao People's Democratic Republic,2005,Developing,61.0,49.0,295,5.0,49.0
+Lao People's Democratic Republic,2004,Developing,64.0,45.0,1491,46.0,45.0
+Lao People's Democratic Republic,2003,Developing,59.8,5.0,1810,52.0,49.0
+Latvia,2015,Developed,74.6,94.0,0,95.0,95.0
+Latvia,2014,Developed,74.4,92.0,36,92.0,92.0
+Latvia,2013,Developed,74.1,94.0,0,94.0,94.0
+Latvia,2012,Developed,73.8,9.0,3,91.0,91.0
+Latvia,2011,Developed,73.6,89.0,1,92.0,92.0
+Latvia,2010,Developed,72.8,91.0,0,92.0,92.0
+Latvia,2009,Developed,72.6,92.0,0,94.0,94.0
+Latvia,2008,Developed,71.9,93.0,3,94.0,94.0
+Latvia,2007,Developed,78.0,91.0,0,94.0,94.0
+Latvia,2006,Developed,75.0,94.0,7,96.0,96.0
+Latvia,2005,Developed,76.0,99.0,2,99.0,99.0
+Latvia,2004,Developed,71.0,98.0,0,99.0,99.0
+Latvia,2003,Developed,78.0,98.0,0,98.0,98.0
+Latvia,2002,Developed,73.0,98.0,0,98.0,97.0
+Latvia,2001,Developed,69.9,96.0,1,97.0,97.0
+Latvia,2000,Developed,71.0,95.0,0,96.0,96.0
+Lebanon,2015,Developing,74.9,81.0,39,75.0,81.0
+Lebanon,2014,Developing,74.8,81.0,112,75.0,81.0
+Lebanon,2013,Developing,74.9,81.0,1761,75.0,81.0
+Lebanon,2012,Developing,75.0,81.0,9,75.0,81.0
+Lebanon,2011,Developing,75.0,81.0,9,75.0,81.0
+Lebanon,2010,Developing,74.9,81.0,12,75.0,81.0
+Lebanon,2009,Developing,74.7,81.0,22,75.0,81.0
+Lebanon,2008,Developing,74.5,81.0,24,75.0,81.0
+Lebanon,2007,Developing,74.4,8.0,373,75.0,8.0
+Lebanon,2006,Developing,74.1,78.0,956,75.0,78.0
+Lebanon,2005,Developing,73.9,77.0,618,74.0,77.0
+Lebanon,2004,Developing,73.7,75.0,213,74.0,75.0
+Lebanon,2003,Developing,73.5,74.0,526,74.0,74.0
+Lebanon,2002,Developing,73.2,77.0,36,77.0,77.0
+Lebanon,2001,Developing,73.0,8.0,8,8.0,8.0
+Lebanon,2000,Developing,72.7,83.0,5,83.0,83.0
+Lesotho,2015,Developing,53.7,93.0,0,9.0,93.0
+Lesotho,2014,Developing,52.1,93.0,0,9.0,93.0
+Lesotho,2013,Developing,52.1,93.0,516,9.0,93.0
+Lesotho,2012,Developing,52.2,95.0,179,93.0,95.0
+Lesotho,2011,Developing,52.3,96.0,172,95.0,96.0
+Lesotho,2010,Developing,51.1,93.0,2488,92.0,93.0
+Lesotho,2009,Developing,49.4,91.0,0,89.0,91.0
+Lesotho,2008,Developing,47.8,88.0,0,86.0,88.0
+Lesotho,2007,Developing,46.2,9.0,2,87.0,88.0
+Lesotho,2006,Developing,45.3,91.0,1,88.0,89.0
+Lesotho,2005,Developing,44.5,87.0,0,88.0,89.0
+Lesotho,2004,Developing,44.8,6.0,31,89.0,9.0
+Lesotho,2003,Developing,45.5,17.0,1,9.0,9.0
+Liberia,2015,Developing,61.4,52.0,1060,52.0,52.0
+Liberia,2014,Developing,58.1,5.0,34,49.0,5.0
+Liberia,2013,Developing,61.1,76.0,0,75.0,76.0
+Liberia,2012,Developing,67.0,8.0,43,8.0,8.0
+Liberia,2011,Developing,62.0,77.0,279,77.0,77.0
+Liberia,2010,Developing,59.7,47.0,2200,71.0,7.0
+Liberia,2009,Developing,59.2,64.0,6,84.0,81.0
+Liberia,2008,Developing,58.6,64.0,1,79.0,75.0
+Libya,2015,Developing,72.7,97.0,82,97.0,97.0
+Libya,2014,Developing,72.4,94.0,372,94.0,94.0
+Libya,2013,Developing,72.9,96.0,0,96.0,96.0
+Libya,2012,Developing,72.9,98.0,320,98.0,98.0
+Libya,2011,Developing,71.3,98.0,0,98.0,98.0
+Libya,2010,Developing,72.8,98.0,0,98.0,98.0
+Libya,2009,Developing,72.7,98.0,329,98.0,98.0
+Libya,2008,Developing,72.6,98.0,8,98.0,98.0
+Libya,2007,Developing,72.5,98.0,59,98.0,98.0
+Libya,2006,Developing,72.2,98.0,1,98.0,98.0
+Libya,2005,Developing,71.9,97.0,292,98.0,98.0
+Libya,2004,Developing,71.5,99.0,2771,97.0,97.0
+Libya,2003,Developing,71.3,96.0,0,95.0,95.0
+Libya,2002,Developing,71.1,91.0,3890,93.0,93.0
+Libya,2001,Developing,71.0,93.0,633,94.0,94.0
+Libya,2000,Developing,78.0,92.0,0,94.0,94.0
+Lithuania,2015,Developed,73.6,94.0,50,93.0,93.0
+Lithuania,2014,Developed,73.4,94.0,11,93.0,93.0
+Lithuania,2013,Developed,73.0,93.0,35,93.0,93.0
+Lithuania,2012,Developed,73.0,93.0,0,93.0,93.0
+Lithuania,2011,Developed,72.8,95.0,7,92.0,92.0
+Lithuania,2010,Developed,72.4,94.0,2,95.0,95.0
+Lithuania,2009,Developed,72.2,95.0,0,98.0,98.0
+Lithuania,2008,Developed,71.1,96.0,1,96.0,96.0
+Lithuania,2007,Developed,72.0,96.0,0,95.0,95.0
+Lithuania,2006,Developed,76.0,95.0,1,94.0,94.0
+Lithuania,2005,Developed,78.0,95.0,1,93.0,94.0
+Lithuania,2004,Developed,71.6,94.0,1,9.0,94.0
+Lithuania,2003,Developed,71.6,95.0,1,91.0,94.0
+Lithuania,2002,Developed,71.4,94.0,103,97.0,95.0
+Lithuania,2001,Developed,71.2,95.0,7,97.0,95.0
+Lithuania,2000,Developed,71.6,98.0,19,92.0,94.0
+Luxembourg,2015,Developed,82.0,94.0,0,99.0,99.0
+Luxembourg,2014,Developed,81.7,94.0,0,99.0,99.0
+Luxembourg,2013,Developed,81.4,94.0,0,99.0,99.0
+Luxembourg,2012,Developed,81.1,94.0,2,99.0,99.0
+Luxembourg,2011,Developed,88.0,95.0,6,96.0,99.0
+Luxembourg,2010,Developed,86.0,94.0,0,96.0,99.0
+Luxembourg,2009,Developed,83.0,95.0,0,96.0,99.0
+Luxembourg,2008,Developed,80.0,94.0,1,96.0,99.0
+Luxembourg,2007,Developed,79.7,87.0,0,96.0,99.0
+Luxembourg,2006,Developed,79.4,95.0,8,99.0,99.0
+Luxembourg,2005,Developed,78.8,95.0,0,99.0,99.0
+Luxembourg,2004,Developed,78.7,94.0,0,99.0,99.0
+Luxembourg,2003,Developed,78.6,95.0,1,99.0,98.0
+Luxembourg,2002,Developed,78.3,95.0,0,99.0,99.0
+Luxembourg,2001,Developed,78.0,86.0,0,99.0,99.0
+Luxembourg,2000,Developed,77.8,77.0,0,99.0,99.0
+Madagascar,2015,Developing,65.5,69.0,3,71.0,69.0
+Madagascar,2014,Developing,65.1,73.0,3,73.0,73.0
+Madagascar,2013,Developing,64.7,74.0,6,73.0,74.0
+Madagascar,2012,Developing,64.3,7.0,2,71.0,7.0
+Madagascar,2011,Developing,63.8,73.0,0,73.0,73.0
+Madagascar,2010,Developing,63.3,7.0,1,7.0,7.0
+Madagascar,2009,Developing,62.8,77.0,0,76.0,77.0
+Madagascar,2008,Developing,62.3,77.0,3,77.0,77.0
+Madagascar,2007,Developing,61.9,84.0,0,83.0,84.0
+Madagascar,2006,Developing,61.4,82.0,2,83.0,85.0
+Madagascar,2005,Developing,69.0,81.0,0,8.0,85.0
+Madagascar,2004,Developing,64.0,71.0,35558,74.0,78.0
+Madagascar,2003,Developing,59.9,61.0,62233,65.0,66.0
+Madagascar,2002,Developing,59.3,51.0,10795,61.0,62.0
+Malawi,2015,Developing,58.3,88.0,0,88.0,88.0
+Malawi,2014,Developing,57.6,91.0,3,87.0,91.0
+Malawi,2013,Developing,56.7,89.0,1,89.0,89.0
+Malawi,2012,Developing,55.3,96.0,11,95.0,96.0
+Malawi,2011,Developing,54.1,97.0,26,97.0,97.0
+Malawi,2010,Developing,52.9,93.0,118712,86.0,93.0
+Malawi,2009,Developing,51.5,93.0,21,93.0,93.0
+Malawi,2008,Developing,50.0,91.0,20,92.0,91.0
+Malawi,2007,Developing,48.5,87.0,143,88.0,87.0
+Malawi,2006,Developing,47.1,99.0,1,99.0,99.0
+Malawi,2005,Developing,46.0,93.0,184,94.0,93.0
+Malawi,2004,Developing,45.1,89.0,1116,94.0,89.0
+Malawi,2003,Developing,44.6,84.0,167,85.0,84.0
+Malawi,2002,Developing,44.0,64.0,92,79.0,64.0
+Malaysia,2015,Developing,75.0,99.0,1318,99.0,99.0
+Malaysia,2014,Developing,74.8,96.0,221,97.0,97.0
+Malaysia,2013,Developing,74.6,96.0,195,97.0,97.0
+Malaysia,2012,Developing,74.5,97.0,1868,97.0,97.0
+Malaysia,2011,Developing,74.3,96.0,1569,96.0,96.0
+Malaysia,2010,Developing,74.1,96.0,73,96.0,96.0
+Malaysia,2009,Developing,74.0,96.0,153,97.0,97.0
+Malaysia,2008,Developing,73.8,97.0,334,97.0,97.0
+Malaysia,2007,Developing,73.7,96.0,394,97.0,97.0
+Malaysia,2006,Developing,73.6,95.0,564,95.0,95.0
+Malaysia,2005,Developing,73.4,96.0,1407,96.0,96.0
+Malaysia,2004,Developing,73.2,94.0,5729,95.0,95.0
+Malaysia,2003,Developing,73.1,95.0,632,96.0,96.0
+Malaysia,2002,Developing,72.9,95.0,408,94.0,94.0
+Malaysia,2001,Developing,72.7,95.0,2198,95.0,96.0
+Malaysia,2000,Developing,72.4,97.0,6187,98.0,98.0
+Maldives,2015,Developing,78.5,99.0,0,99.0,99.0
+Maldives,2014,Developing,78.2,99.0,0,99.0,99.0
+Maldives,2013,Developing,77.9,99.0,0,99.0,99.0
+Maldives,2012,Developing,77.6,99.0,0,99.0,99.0
+Maldives,2011,Developing,77.3,96.0,0,96.0,96.0
+Maldives,2010,Developing,76.7,97.0,0,97.0,96.0
+Maldives,2009,Developing,76.3,98.0,6,98.0,98.0
+Maldives,2008,Developing,75.9,98.0,0,98.0,98.0
+Maldives,2007,Developing,75.4,98.0,20,98.0,98.0
+Maldives,2006,Developing,75.0,98.0,47,98.0,98.0
+Maldives,2005,Developing,74.3,98.0,1395,98.0,98.0
+Maldives,2004,Developing,73.4,97.0,37,96.0,96.0
+Maldives,2003,Developing,72.7,98.0,75,98.0,98.0
+Maldives,2002,Developing,71.8,98.0,926,98.0,98.0
+Maldives,2001,Developing,78.0,98.0,0,97.0,98.0
+Maldives,2000,Developing,69.6,96.0,20,98.0,98.0
+Mali,2015,Developing,58.2,64.0,215,66.0,64.0
+Mali,2014,Developing,57.8,73.0,290,74.0,73.0
+Mali,2013,Developing,57.3,69.0,221,7.0,69.0
+Mali,2012,Developing,57.2,66.0,341,72.0,66.0
+Mali,2011,Developing,56.8,66.0,24,72.0,66.0
+Mali,2010,Developing,56.5,72.0,1719,77.0,73.0
+Mali,2009,Developing,56.0,71.0,2939,77.0,73.0
+Mali,2008,Developing,55.5,74.0,98,74.0,74.0
+Mali,2007,Developing,55.0,74.0,2,76.0,74.0
+Mali,2006,Developing,54.3,9.0,128,79.0,78.0
+Mali,2005,Developing,53.6,83.0,33,78.0,77.0
+Mali,2004,Developing,52.8,73.0,172,7.0,69.0
+Mali,2003,Developing,52.0,79.0,232,67.0,63.0
+Malta,2015,Developed,81.7,95.0,2,97.0,97.0
+Malta,2014,Developed,81.4,9.0,0,99.0,99.0
+Malta,2013,Developed,81.1,94.0,0,99.0,99.0
+Malta,2012,Developed,81.0,93.0,0,99.0,99.0
+Malta,2011,Developed,87.0,82.0,3,96.0,96.0
+Malta,2010,Developed,83.0,75.0,0,76.0,76.0
+Malta,2009,Developed,82.0,86.0,1,73.0,73.0
+Malta,2008,Developed,80.0,86.0,1,72.0,72.0
+Malta,2007,Developed,79.6,82.0,2,76.0,74.0
+Malta,2006,Developed,79.3,86.0,1,83.0,85.0
+Malta,2005,Developed,79.0,85.0,6,94.0,92.0
+Malta,2004,Developed,78.7,85.0,4,89.0,89.0
+Malta,2003,Developed,78.5,89.0,4,94.0,94.0
+Mauritania,2015,Developing,63.1,73.0,1,67.0,73.0
+Mauritania,2014,Developing,63.0,84.0,14,84.0,84.0
+Mauritania,2013,Developing,62.7,8.0,62,8.0,8.0
+Mauritania,2012,Developing,62.5,8.0,35,8.0,8.0
+Mauritania,2011,Developing,62.2,75.0,234,73.0,75.0
+Mauritania,2010,Developing,62.0,64.0,1292,52.0,64.0
+Mauritania,2009,Developing,61.7,64.0,322,63.0,64.0
+Mauritania,2008,Developing,61.4,74.0,4,73.0,74.0
+Mauritania,2007,Developing,61.2,74.0,11,75.0,75.0
+Mauritania,2006,Developing,69.0,68.0,22,68.0,68.0
+Mauritania,2005,Developing,66.0,42.0,127,71.0,71.0
+Mauritius,2015,Developing,74.6,97.0,0,98.0,97.0
+Mauritius,2014,Developing,74.2,97.0,0,98.0,97.0
+Mauritius,2013,Developing,74.1,98.0,0,98.0,98.0
+Mauritius,2012,Developing,73.9,98.0,0,98.0,98.0
+Mauritius,2011,Developing,73.6,98.0,2,98.0,98.0
+Mauritius,2010,Developing,73.3,99.0,12,99.0,99.0
+Mauritius,2009,Developing,72.8,99.0,15,99.0,99.0
+Mauritius,2008,Developing,72.7,99.0,12,99.0,99.0
+Mauritius,2007,Developing,72.9,97.0,13,96.0,97.0
+Mauritius,2006,Developing,71.8,97.0,3,98.0,97.0
+Mauritius,2005,Developing,72.1,97.0,7,97.0,97.0
+Mauritius,2004,Developing,71.9,98.0,28,98.0,98.0
+Mauritius,2003,Developing,71.5,97.0,777,99.0,99.0
+Mauritius,2002,Developing,71.5,88.0,0,88.0,88.0
+Mauritius,2001,Developing,71.5,92.0,0,93.0,92.0
+Mauritius,2000,Developing,71.0,88.0,0,88.0,88.0
+Mexico,2015,Developing,76.7,82.0,0,87.0,87.0
+Mexico,2014,Developing,76.6,84.0,3,87.0,87.0
+Mexico,2013,Developing,76.6,82.0,0,83.0,83.0
+Mexico,2012,Developing,76.3,99.0,0,99.0,99.0
+Mexico,2011,Developing,76.1,98.0,3,97.0,97.0
+Mexico,2010,Developing,75.6,93.0,0,95.0,95.0
+Mexico,2009,Developing,75.7,95.0,0,95.0,95.0
+Mexico,2008,Developing,75.6,97.0,0,96.0,96.0
+Mexico,2007,Developing,76.0,98.0,0,98.0,98.0
+Mexico,2006,Developing,75.8,98.0,23,98.0,98.0
+Mexico,2005,Developing,75.3,98.0,6,98.0,98.0
+Mexico,2004,Developing,75.4,98.0,64,98.0,98.0
+Mexico,2003,Developing,75.0,98.0,44,98.0,98.0
+Mexico,2002,Developing,75.0,97.0,0,98.0,97.0
+Mexico,2001,Developing,75.0,97.0,3,97.0,97.0
+Mexico,2000,Developing,74.8,97.0,30,97.0,97.0
+Micronesia (Federated States of),2015,Developing,69.4,78.0,0,71.0,72.0
+Micronesia (Federated States of),2014,Developing,69.4,81.0,140,76.0,77.0
+Micronesia (Federated States of),2013,Developing,69.2,83.0,0,81.0,81.0
+Micronesia (Federated States of),2012,Developing,69.0,82.0,0,81.0,81.0
+Micronesia (Federated States of),2011,Developing,68.9,83.0,0,83.0,84.0
+Micronesia (Federated States of),2010,Developing,68.7,88.0,0,85.0,85.0
+Micronesia (Federated States of),2009,Developing,68.5,89.0,0,81.0,91.0
+Micronesia (Federated States of),2008,Developing,68.4,89.0,0,88.0,85.0
+Micronesia (Federated States of),2007,Developing,68.2,9.0,0,79.0,79.0
+Micronesia (Federated States of),2006,Developing,68.0,84.0,0,81.0,67.0
+Micronesia (Federated States of),2005,Developing,67.9,91.0,0,94.0,94.0
+Micronesia (Federated States of),2004,Developing,67.7,8.0,0,82.0,78.0
+Micronesia (Federated States of),2003,Developing,67.5,89.0,0,88.0,92.0
+Micronesia (Federated States of),2002,Developing,66.2,85.0,0,84.0,84.0
+Micronesia (Federated States of),2001,Developing,67.2,81.0,0,79.0,75.0
+Micronesia (Federated States of),2000,Developing,67.0,87.0,0,85.0,85.0
+Mongolia,2015,Developing,68.8,99.0,20359,99.0,99.0
+Mongolia,2014,Developing,68.4,99.0,0,99.0,99.0
+Mongolia,2013,Developing,68.1,98.0,0,98.0,98.0
+Mongolia,2012,Developing,67.8,99.0,0,99.0,99.0
+Mongolia,2011,Developing,67.3,99.0,0,99.0,99.0
+Mongolia,2010,Developing,66.3,96.0,7,96.0,96.0
+Mongolia,2009,Developing,66.9,97.0,8,96.0,95.0
+Mongolia,2008,Developing,67.4,96.0,31,95.0,96.0
+Mongolia,2007,Developing,65.9,98.0,12,99.0,95.0
+Mongolia,2006,Developing,65.0,98.0,26,98.0,99.0
+Mongolia,2005,Developing,64.5,98.0,0,99.0,99.0
+Mongolia,2004,Developing,64.0,98.0,0,99.0,99.0
+Mongolia,2003,Developing,64.0,98.0,18,98.0,98.0
+Mongolia,2002,Developing,63.8,98.0,1205,98.0,98.0
+Mongolia,2001,Developing,63.2,95.0,10677,95.0,95.0
+Mongolia,2000,Developing,62.8,93.0,925,94.0,94.0
+Montenegro,2015,Developing,76.1,82.0,0,89.0,89.0
+Montenegro,2014,Developing,75.9,87.0,0,91.0,91.0
+Montenegro,2013,Developing,75.8,9.0,0,94.0,94.0
+Montenegro,2012,Developing,75.6,9.0,0,94.0,94.0
+Montenegro,2011,Developing,75.4,91.0,5,95.0,95.0
+Montenegro,2010,Developing,75.3,9.0,5,93.0,94.0
+Montenegro,2009,Developing,75.0,87.0,0,91.0,92.0
+Montenegro,2008,Developing,74.6,93.0,0,95.0,95.0
+Montenegro,2007,Developing,74.2,9.0,0,92.0,92.0
+Montenegro,2006,Developing,73.8,9.0,0,9.0,9.0
+Morocco,2015,Developing,74.3,99.0,17,99.0,99.0
+Morocco,2014,Developing,74.1,99.0,10,99.0,99.0
+Morocco,2013,Developing,73.9,99.0,92,99.0,99.0
+Morocco,2012,Developing,73.6,99.0,668,99.0,99.0
+Morocco,2011,Developing,73.3,98.0,982,98.0,99.0
+Morocco,2010,Developing,72.8,98.0,633,99.0,99.0
+Morocco,2009,Developing,72.3,98.0,834,99.0,99.0
+Morocco,2008,Developing,71.8,97.0,1455,99.0,99.0
+Morocco,2007,Developing,71.4,95.0,2248,95.0,95.0
+Morocco,2006,Developing,71.0,95.0,1217,97.0,97.0
+Morocco,2005,Developing,77.0,96.0,0,98.0,98.0
+Morocco,2004,Developing,72.0,95.0,6399,97.0,97.0
+Morocco,2003,Developing,69.9,9.0,10841,91.0,91.0
+Morocco,2002,Developing,69.5,92.0,6000,94.0,94.0
+Morocco,2001,Developing,69.0,84.0,2724,93.0,96.0
+Morocco,2000,Developing,68.6,43.0,7368,95.0,95.0
+Mozambique,2015,Developing,57.6,8.0,79,8.0,8.0
+Mozambique,2014,Developing,56.7,79.0,9,79.0,79.0
+Mozambique,2013,Developing,55.3,78.0,8,78.0,78.0
+Mozambique,2012,Developing,54.8,76.0,145,73.0,76.0
+Mozambique,2011,Developing,54.3,76.0,177,73.0,76.0
+Mozambique,2010,Developing,54.0,74.0,2321,73.0,74.0
+Mozambique,2009,Developing,53.8,74.0,60,74.0,74.0
+Mozambique,2008,Developing,53.2,75.0,4,74.0,75.0
+Mozambique,2007,Developing,52.1,75.0,267,75.0,75.0
+Mozambique,2006,Developing,51.2,75.0,183,73.0,78.0
+Mozambique,2005,Developing,58.0,75.0,12598,71.0,8.0
+Mozambique,2004,Developing,54.0,76.0,9396,69.0,83.0
+Mozambique,2003,Developing,51.0,76.0,28898,67.0,85.0
+Mozambique,2002,Developing,49.8,76.0,7155,76.0,76.0
+Mozambique,2001,Developing,49.5,25.0,7085,72.0,73.0
+Myanmar,2015,Developing,66.6,89.0,6,89.0,89.0
+Myanmar,2014,Developing,66.4,88.0,122,88.0,88.0
+Myanmar,2013,Developing,66.2,75.0,1010,76.0,75.0
+Myanmar,2012,Developing,65.9,58.0,2175,87.0,84.0
+Myanmar,2011,Developing,65.6,4.0,2046,9.0,84.0
+Myanmar,2010,Developing,65.4,92.0,190,9.0,9.0
+Myanmar,2009,Developing,65.2,91.0,329,9.0,9.0
+Myanmar,2008,Developing,59.2,85.0,333,85.0,85.0
+Myanmar,2007,Developing,64.5,85.0,1088,84.0,86.0
+Myanmar,2006,Developing,64.2,75.0,760,82.0,82.0
+Myanmar,2005,Developing,63.9,62.0,314,86.0,73.0
+Myanmar,2004,Developing,63.5,39.0,1329,92.0,82.0
+Myanmar,2003,Developing,63.2,8.0,830,86.0,78.0
+Namibia,2015,Developing,65.8,92.0,212,92.0,92.0
+Namibia,2014,Developing,65.9,88.0,477,88.0,88.0
+Namibia,2013,Developing,66.1,89.0,1028,89.0,89.0
+Namibia,2012,Developing,65.8,84.0,86,84.0,84.0
+Namibia,2011,Developing,64.3,82.0,79,85.0,82.0
+Namibia,2010,Developing,63.0,83.0,3138,83.0,83.0
+Nepal,2015,Developing,69.2,91.0,1599,9.0,91.0
+Nepal,2014,Developing,69.6,92.0,1279,92.0,92.0
+Nepal,2013,Developing,69.3,92.0,1861,92.0,92.0
+Nepal,2012,Developing,68.9,9.0,3362,9.0,9.0
+Nepal,2011,Developing,68.4,92.0,2359,92.0,92.0
+Nepal,2010,Developing,68.0,82.0,190,83.0,82.0
+Nepal,2009,Developing,67.5,89.0,189,93.0,89.0
+Nepal,2008,Developing,67.0,82.0,2089,82.0,82.0
+Nepal,2007,Developing,66.6,82.0,1415,82.0,82.0
+Nepal,2006,Developing,66.0,69.0,2838,91.0,89.0
+Nepal,2005,Developing,65.4,41.0,5023,78.0,75.0
+Nepal,2004,Developing,64.7,27.0,12074,8.0,8.0
+Nepal,2003,Developing,64.3,2.0,13344,76.0,78.0
+Netherlands,2015,Developed,81.9,94.0,7,95.0,95.0
+Netherlands,2014,Developed,81.7,92.0,140,96.0,96.0
+Netherlands,2013,Developed,81.4,51.0,2632,97.0,97.0
+Netherlands,2012,Developed,81.1,2.0,10,97.0,97.0
+Netherlands,2011,Developed,81.1,2.0,51,97.0,97.0
+New Zealand,2015,Developed,81.6,92.0,10,92.0,92.0
+New Zealand,2014,Developed,81.5,93.0,280,93.0,93.0
+New Zealand,2013,Developed,81.3,93.0,8,92.0,92.0
+New Zealand,2012,Developed,81.1,93.0,68,93.0,93.0
+New Zealand,2011,Developed,86.0,95.0,597,95.0,95.0
+New Zealand,2010,Developed,89.0,9.0,43,93.0,93.0
+New Zealand,2009,Developed,85.0,93.0,198,92.0,92.0
+New Zealand,2008,Developed,81.0,9.0,0,89.0,89.0
+New Zealand,2007,Developed,81.0,88.0,25,88.0,88.0
+New Zealand,2006,Developed,79.9,87.0,20,89.0,89.0
+New Zealand,2005,Developed,79.9,87.0,20,89.0,89.0
+New Zealand,2004,Developed,79.2,88.0,33,87.0,89.0
+New Zealand,2003,Developed,79.1,89.0,66,86.0,9.0
+New Zealand,2002,Developed,78.7,89.0,21,84.0,9.0
+New Zealand,2001,Developed,78.5,9.0,65,82.0,9.0
+New Zealand,2000,Developed,78.6,9.0,65,82.0,9.0
+Nicaragua,2015,Developing,74.8,98.0,0,99.0,98.0
+Nicaragua,2014,Developing,74.5,98.0,0,99.0,98.0
+Nicaragua,2013,Developing,73.9,98.0,0,99.0,98.0
+Nicaragua,2012,Developing,73.9,98.0,0,99.0,98.0
+Nicaragua,2011,Developing,74.5,98.0,0,99.0,98.0
+Nicaragua,2010,Developing,73.2,98.0,0,99.0,98.0
+Nicaragua,2009,Developing,73.2,98.0,0,99.0,98.0
+Nicaragua,2008,Developing,72.5,97.0,0,97.0,97.0
+Nicaragua,2007,Developing,72.5,93.0,0,93.0,93.0
+Nicaragua,2006,Developing,73.0,88.0,0,88.0,88.0
+Nicaragua,2005,Developing,71.2,86.0,0,87.0,86.0
+Nicaragua,2004,Developing,71.0,79.0,0,8.0,79.0
+Nicaragua,2003,Developing,76.0,86.0,0,86.0,86.0
+Nicaragua,2002,Developing,75.0,85.0,0,85.0,85.0
+Nicaragua,2001,Developing,73.0,87.0,0,89.0,87.0
+Nicaragua,2000,Developing,73.0,83.0,0,85.0,83.0
+Niger,2015,Developing,61.8,65.0,7693,65.0,65.0
+Niger,2014,Developing,61.4,68.0,1142,67.0,68.0
+Niger,2013,Developing,69.0,67.0,1224,56.0,67.0
+Niger,2012,Developing,63.0,71.0,272,71.0,71.0
+Niger,2011,Developing,59.4,75.0,771,4.0,75.0
+Niger,2010,Developing,58.2,7.0,372,75.0,7.0
+Niger,2009,Developing,57.1,71.0,801,71.0,71.0
+Nigeria,2015,Developing,54.5,49.0,12423,49.0,49.0
+Nigeria,2014,Developing,53.6,49.0,6855,49.0,49.0
+Nigeria,2013,Developing,53.2,46.0,52852,46.0,46.0
+Nigeria,2012,Developing,52.7,42.0,6447,42.0,42.0
+Nigeria,2011,Developing,52.3,46.0,18843,48.0,48.0
+Nigeria,2010,Developing,52.0,49.0,8491,54.0,54.0
+Nigeria,2009,Developing,51.6,63.0,1272,66.0,63.0
+Nigeria,2008,Developing,59.0,41.0,9960,6.0,53.0
+Nigeria,2007,Developing,55.0,42.0,2613,54.0,42.0
+Nigeria,2006,Developing,49.8,27.0,704,46.0,4.0
+Nigeria,2005,Developing,49.2,18.0,110927,45.0,36.0
+Oman,2015,Developing,76.6,99.0,0,99.0,99.0
+Oman,2014,Developing,76.4,99.0,0,99.0,99.0
+Oman,2013,Developing,76.2,98.0,0,99.0,98.0
+Oman,2012,Developing,76.0,98.0,13,99.0,98.0
+Oman,2011,Developing,75.8,99.0,5,99.0,99.0
+Oman,2010,Developing,75.6,99.0,3,99.0,99.0
+Oman,2009,Developing,75.4,98.0,19,96.0,98.0
+Oman,2008,Developing,75.2,99.0,18,97.0,99.0
+Oman,2007,Developing,74.9,99.0,24,97.0,99.0
+Oman,2006,Developing,74.7,99.0,13,98.0,98.0
+Oman,2005,Developing,74.3,99.0,25,99.0,99.0
+Oman,2004,Developing,74.0,99.0,18,99.0,99.0
+Oman,2003,Developing,73.6,99.0,1,99.0,99.0
+Oman,2002,Developing,73.3,99.0,5,99.0,99.0
+Oman,2001,Developing,72.9,99.0,15,99.0,99.0
+Oman,2000,Developing,72.6,99.0,15,99.0,99.0
+Pakistan,2015,Developing,66.4,72.0,386,72.0,72.0
+Pakistan,2014,Developing,66.2,72.0,1370,72.0,72.0
+Pakistan,2013,Developing,66.0,72.0,8749,72.0,72.0
+Pakistan,2012,Developing,65.7,72.0,8046,72.0,72.0
+Pakistan,2011,Developing,65.5,74.0,4386,75.0,74.0
+Pakistan,2010,Developing,65.1,82.0,4321,82.0,82.0
+Pakistan,2009,Developing,64.8,78.0,863,7.0,71.0
+Pakistan,2008,Developing,64.6,65.0,1129,7.0,62.0
+Pakistan,2007,Developing,64.4,75.0,2801,75.0,75.0
+Pakistan,2006,Developing,64.2,78.0,7641,77.0,78.0
+Pakistan,2005,Developing,62.9,7.0,2981,78.0,77.0
+Pakistan,2004,Developing,63.7,65.0,4248,65.0,65.0
+Pakistan,2003,Developing,63.5,63.0,4740,69.0,67.0
+Panama,2015,Developing,77.8,73.0,0,72.0,73.0
+Panama,2014,Developing,77.6,8.0,0,8.0,8.0
+Panama,2013,Developing,77.5,8.0,0,81.0,8.0
+Panama,2012,Developing,77.2,85.0,0,87.0,85.0
+Panama,2011,Developing,77.3,87.0,4,91.0,87.0
+Panama,2010,Developing,76.5,94.0,0,95.0,94.0
+Panama,2009,Developing,76.8,85.0,0,85.0,85.0
+Panama,2008,Developing,76.5,86.0,0,86.0,86.0
+Panama,2007,Developing,76.4,85.0,0,84.0,85.0
+Panama,2006,Developing,76.2,88.0,0,98.0,88.0
+Panama,2005,Developing,75.8,92.0,0,88.0,92.0
+Panama,2004,Developing,75.8,95.0,0,92.0,95.0
+Panama,2003,Developing,75.5,98.0,0,95.0,98.0
+Panama,2002,Developing,75.7,98.0,0,99.0,99.0
+Panama,2001,Developing,75.5,98.0,0,95.0,99.0
+Papua New Guinea,2015,Developing,62.9,67.0,38,74.0,73.0
+Papua New Guinea,2014,Developing,62.7,67.0,2299,64.0,73.0
+Papua New Guinea,2013,Developing,62.4,73.0,12,8.0,79.0
+Papua New Guinea,2012,Developing,62.2,68.0,0,81.0,74.0
+Papua New Guinea,2011,Developing,62.0,66.0,0,69.0,72.0
+Papua New Guinea,2010,Developing,61.8,56.0,0,72.0,67.0
+Papua New Guinea,2009,Developing,61.6,66.0,0,79.0,73.0
+Papua New Guinea,2008,Developing,61.4,59.0,0,76.0,63.0
+Papua New Guinea,2007,Developing,61.1,61.0,0,72.0,71.0
+Papua New Guinea,2006,Developing,68.0,71.0,1,67.0,72.0
+Papua New Guinea,2005,Developing,64.0,63.0,1222,61.0,72.0
+Papua New Guinea,2004,Developing,59.9,6.0,1385,59.0,62.0
+Papua New Guinea,2003,Developing,59.6,67.0,3863,62.0,68.0
+Papua New Guinea,2002,Developing,59.3,6.0,17620,54.0,61.0
+Papua New Guinea,2001,Developing,59.1,59.0,4023,52.0,55.0
+Papua New Guinea,2000,Developing,58.9,57.0,7135,51.0,59.0
+Paraguay,2015,Developing,74.0,93.0,0,89.0,93.0
+Paraguay,2014,Developing,73.9,87.0,0,83.0,87.0
+Paraguay,2013,Developing,73.8,86.0,0,8.0,86.0
+Paraguay,2012,Developing,73.6,87.0,0,83.0,87.0
+Paraguay,2011,Developing,73.4,89.0,0,84.0,89.0
+Paraguay,2010,Developing,73.2,89.0,0,85.0,89.0
+Paraguay,2009,Developing,73.0,85.0,0,81.0,85.0
+Paraguay,2008,Developing,72.7,87.0,0,85.0,89.0
+Paraguay,2007,Developing,72.5,86.0,0,95.0,95.0
+Paraguay,2006,Developing,72.3,92.0,0,98.0,98.0
+Paraguay,2005,Developing,72.1,92.0,0,96.0,96.0
+Paraguay,2004,Developing,71.9,9.0,0,92.0,92.0
+Paraguay,2003,Developing,71.7,86.0,0,86.0,86.0
+Peru,2015,Developing,75.5,9.0,4,88.0,9.0
+Peru,2014,Developing,75.3,88.0,0,78.0,88.0
+Peru,2013,Developing,75.3,88.0,0,71.0,88.0
+Peru,2012,Developing,74.9,95.0,0,94.0,95.0
+Peru,2011,Developing,74.5,91.0,0,91.0,91.0
+Peru,2010,Developing,73.7,93.0,0,92.0,93.0
+Peru,2009,Developing,73.8,93.0,0,92.0,93.0
+Peru,2008,Developing,73.9,93.0,1,93.0,93.0
+Peru,2007,Developing,74.0,93.0,0,93.0,93.0
+Peru,2006,Developing,74.2,94.0,0,94.0,94.0
+Peru,2005,Developing,72.8,94.0,0,66.0,77.0
+Peru,2004,Developing,72.2,92.0,0,81.0,86.0
+Peru,2003,Developing,72.1,65.0,0,95.0,94.0
+Philippines,2015,Developing,68.5,6.0,619,79.0,6.0
+Philippines,2014,Developing,68.4,67.0,58848,77.0,67.0
+Philippines,2013,Developing,68.1,89.0,2920,84.0,89.0
+Philippines,2012,Developing,68.1,88.0,1536,88.0,88.0
+Philippines,2011,Developing,68.0,87.0,6538,87.0,87.0
+Philippines,2010,Developing,67.9,77.0,6368,78.0,79.0
+Philippines,2009,Developing,68.0,85.0,1469,86.0,87.0
+Philippines,2008,Developing,67.5,88.0,341,91.0,91.0
+Philippines,2007,Developing,67.5,87.0,530,87.0,87.0
+Philippines,2006,Developing,67.3,77.0,9,88.0,88.0
+Philippines,2005,Developing,67.0,49.0,118,9.0,89.0
+Philippines,2004,Developing,67.3,48.0,3025,85.0,88.0
+Philippines,2003,Developing,67.2,52.0,10511,85.0,84.0
+Philippines,2002,Developing,66.8,42.0,7003,77.0,79.0
+Philippines,2001,Developing,66.8,45.0,7360,76.0,79.0
+Philippines,2000,Developing,66.8,7.0,7120,74.0,78.0
+Poland,2015,Developed,77.5,96.0,0,92.0,98.0
+Poland,2014,Developed,77.3,96.0,0,94.0,98.0
+Poland,2013,Developed,77.1,96.0,84,95.0,99.0
+Poland,2012,Developed,76.8,97.0,71,95.0,99.0
+Poland,2011,Developed,76.7,98.0,0,96.0,99.0
+Poland,2010,Developed,76.3,98.0,13,96.0,99.0
+Poland,2009,Developed,75.7,98.0,115,96.0,99.0
+Poland,2008,Developed,75.5,98.0,0,96.0,99.0
+Poland,2007,Developed,75.3,98.0,40,99.0,99.0
+Poland,2006,Developed,75.2,98.0,120,99.0,99.0
+Poland,2005,Developed,75.0,98.0,13,99.0,99.0
+Poland,2004,Developed,74.9,98.0,11,99.0,99.0
+Poland,2003,Developed,74.7,97.0,48,98.0,99.0
+Poland,2002,Developed,74.5,98.0,34,98.0,99.0
+Poland,2001,Developed,74.2,95.0,133,98.0,98.0
+Poland,2000,Developed,73.7,99.0,77,98.0,98.0
+Portugal,2015,Developed,81.1,98.0,8,98.0,98.0
+Portugal,2014,Developed,89.0,98.0,0,98.0,98.0
+Portugal,2013,Developed,86.0,98.0,1,98.0,98.0
+Portugal,2012,Developed,83.0,98.0,23,98.0,98.0
+Portugal,2011,Developed,82.0,97.0,2,97.0,97.0
+Portugal,2010,Developed,79.6,97.0,5,97.0,98.0
+Portugal,2009,Developed,79.3,96.0,3,96.0,96.0
+Portugal,2008,Developed,79.0,97.0,1,97.0,97.0
+Portugal,2007,Developed,78.7,97.0,0,96.0,97.0
+Portugal,2006,Developed,78.5,97.0,0,97.0,97.0
+Portugal,2005,Developed,77.7,94.0,7,93.0,93.0
+Portugal,2004,Developed,78.0,94.0,5,95.0,95.0
+Portugal,2003,Developed,77.3,94.0,8,96.0,99.0
+Portugal,2002,Developed,77.2,82.0,8,96.0,98.0
+Portugal,2001,Developed,76.9,7.0,0,96.0,97.0
+Portugal,2000,Developed,76.6,58.0,45,96.0,96.0
+Qatar,2015,Developing,78.2,99.0,18,99.0,99.0
+Qatar,2014,Developing,78.1,89.0,46,99.0,89.0
+Qatar,2013,Developing,77.9,97.0,73,99.0,97.0
+Qatar,2012,Developing,77.8,93.0,160,93.0,92.0
+Qatar,2011,Developing,77.5,93.0,101,92.0,93.0
+Qatar,2010,Developing,77.3,97.0,295,98.0,97.0
+Qatar,2009,Developing,77.0,99.0,112,98.0,99.0
+Qatar,2008,Developing,76.8,97.0,0,98.0,97.0
+Qatar,2007,Developing,76.7,94.0,361,97.0,94.0
+Qatar,2006,Developing,76.6,96.0,144,95.0,96.0
+Qatar,2005,Developing,76.6,97.0,74,98.0,97.0
+Qatar,2004,Developing,76.6,97.0,29,95.0,96.0
+Qatar,2003,Developing,76.5,93.0,24,93.0,92.0
+Qatar,2002,Developing,76.4,98.0,34,96.0,96.0
+Qatar,2001,Developing,76.3,93.0,23,93.0,93.0
+Qatar,2000,Developing,76.2,89.0,46,91.0,8.0
+Republic of Korea,2015,Developing,82.3,98.0,7,98.0,98.0
+Republic of Korea,2014,Developing,82.0,99.0,442,99.0,99.0
+Republic of Korea,2013,Developing,81.7,99.0,107,99.0,99.0
+Republic of Korea,2012,Developing,81.2,99.0,2,99.0,99.0
+Republic of Korea,2011,Developing,81.1,99.0,42,98.0,99.0
+Republic of Korea,2010,Developing,87.0,94.0,114,95.0,94.0
+Republic of Korea,2009,Developing,86.0,94.0,17,95.0,94.0
+Republic of Korea,2008,Developing,83.0,94.0,2,92.0,94.0
+Republic of Korea,2007,Developing,79.8,91.0,194,91.0,91.0
+Republic of Korea,2006,Developing,79.4,99.0,28,98.0,98.0
+Republic of Korea,2005,Developing,78.7,99.0,7,96.0,96.0
+Republic of Korea,2004,Developing,78.2,92.0,11,9.0,88.0
+Republic of Korea,2003,Developing,77.6,91.0,33,94.0,97.0
+Republic of Korea,2002,Developing,77.1,92.0,62,99.0,97.0
+Republic of Korea,2001,Developing,76.7,89.0,23060,99.0,97.0
+Republic of Korea,2000,Developing,76.0,93.0,32647,99.0,97.0
+Republic of Moldova,2015,Developing,72.1,88.0,0,88.0,87.0
+Republic of Moldova,2014,Developing,71.8,92.0,2,92.0,9.0
+Republic of Moldova,2013,Developing,71.7,91.0,27,92.0,9.0
+Republic of Moldova,2012,Developing,79.0,94.0,11,92.0,92.0
+Republic of Moldova,2011,Developing,77.0,96.0,0,96.0,93.0
+Republic of Moldova,2010,Developing,68.8,98.0,0,97.0,9.0
+Republic of Moldova,2009,Developing,69.0,89.0,0,87.0,85.0
+Republic of Moldova,2008,Developing,68.9,97.0,0,96.0,9.0
+Republic of Moldova,2007,Developing,68.3,95.0,10,93.0,92.0
+Republic of Moldova,2006,Developing,68.0,98.0,34,98.0,97.0
+Republic of Moldova,2005,Developing,67.3,99.0,6,99.0,98.0
+Republic of Moldova,2004,Developing,68.0,99.0,4,98.0,98.0
+Republic of Moldova,2003,Developing,67.6,99.0,87,98.0,98.0
+Republic of Moldova,2002,Developing,67.5,99.0,4929,98.0,97.0
+Republic of Moldova,2001,Developing,67.6,94.0,457,98.0,97.0
+Republic of Moldova,2000,Developing,67.1,92.0,687,97.0,95.0
+Romania,2015,Developed,75.0,9.0,4,89.0,89.0
+Romania,2014,Developed,74.8,94.0,59,94.0,94.0
+Romania,2013,Developed,74.6,96.0,1159,88.0,92.0
+Romania,2012,Developed,74.4,96.0,7450,92.0,91.0
+Romania,2011,Developed,74.3,96.0,4189,89.0,89.0
+Romania,2010,Developed,73.4,98.0,193,94.0,94.0
+Romania,2009,Developed,73.1,95.0,8,95.0,95.0
+Romania,2008,Developed,73.1,97.0,12,95.0,96.0
+Romania,2007,Developed,72.9,99.0,353,96.0,96.0
+Romania,2006,Developed,72.5,99.0,3196,97.0,97.0
+Romania,2005,Developed,71.9,98.0,5043,97.0,97.0
+Romania,2004,Developed,71.7,99.0,117,97.0,97.0
+Romania,2003,Developed,71.1,98.0,9,97.0,97.0
+Romania,2002,Developed,77.0,99.0,14,98.0,98.0
+Romania,2001,Developed,78.0,98.0,10,99.0,99.0
+Romania,2000,Developed,77.0,98.0,35,99.0,99.0
+Russian Federation,2015,Developing,75.0,97.0,843,97.0,97.0
+Russian Federation,2014,Developing,73.0,97.0,4711,97.0,97.0
+Russian Federation,2013,Developing,70.0,97.0,2339,98.0,97.0
+Russian Federation,2012,Developing,69.6,97.0,2123,98.0,97.0
+Russian Federation,2011,Developing,69.4,97.0,629,97.0,97.0
+Russian Federation,2010,Developing,68.4,97.0,129,98.0,97.0
+Russian Federation,2009,Developing,68.2,98.0,101,98.0,98.0
+Russian Federation,2008,Developing,67.5,98.0,27,98.0,98.0
+Russian Federation,2007,Developing,67.3,98.0,173,98.0,98.0
+Russian Federation,2006,Developing,66.4,98.0,1147,98.0,98.0
+Russian Federation,2005,Developing,65.0,97.0,454,98.0,98.0
+Russian Federation,2004,Developing,64.9,96.0,2444,98.0,97.0
+Russian Federation,2003,Developing,64.6,94.0,3291,97.0,96.0
+Russian Federation,2002,Developing,64.8,81.0,580,97.0,97.0
+Russian Federation,2001,Developing,65.1,43.0,2072,97.0,96.0
+Rwanda,2015,Developing,66.1,98.0,1,99.0,98.0
+Rwanda,2014,Developing,65.7,98.0,10,98.0,98.0
+Rwanda,2013,Developing,65.2,98.0,17,98.0,98.0
+Rwanda,2012,Developing,64.6,98.0,75,98.0,98.0
+Rwanda,2011,Developing,63.8,97.0,31,93.0,97.0
+Rwanda,2010,Developing,62.8,97.0,121,93.0,97.0
+Rwanda,2009,Developing,61.0,97.0,5,93.0,97.0
+Rwanda,2008,Developing,68.0,97.0,6,97.0,97.0
+Rwanda,2007,Developing,59.6,97.0,26,98.0,97.0
+Rwanda,2006,Developing,57.6,99.0,494,99.0,99.0
+Rwanda,2005,Developing,55.3,95.0,129,95.0,95.0
+Rwanda,2004,Developing,53.4,89.0,386,89.0,89.0
+Rwanda,2003,Developing,52.0,96.0,1064,96.0,96.0
+Rwanda,2002,Developing,57.0,88.0,2738,85.0,88.0
+Saint Lucia,2015,Developing,75.2,99.0,0,99.0,99.0
+Saint Lucia,2014,Developing,75.0,99.0,0,99.0,99.0
+Saint Lucia,2013,Developing,74.8,99.0,0,99.0,99.0
+Saint Lucia,2012,Developing,74.7,98.0,0,98.0,98.0
+Saint Lucia,2011,Developing,74.6,99.0,0,99.0,99.0
+Saint Lucia,2010,Developing,74.2,97.0,0,97.0,97.0
+Saint Lucia,2009,Developing,74.3,95.0,0,95.0,95.0
+Saint Lucia,2008,Developing,74.1,96.0,0,96.0,96.0
+Saint Lucia,2007,Developing,73.9,99.0,0,99.0,99.0
+Saint Lucia,2006,Developing,73.5,85.0,0,85.0,85.0
+Saint Lucia,2005,Developing,73.1,95.0,0,95.0,95.0
+Saint Lucia,2004,Developing,72.6,91.0,0,91.0,91.0
+Saint Lucia,2003,Developing,72.2,84.0,0,91.0,9.0
+Saint Lucia,2002,Developing,72.0,14.0,0,9.0,74.0
+Saint Vincent and the Grenadines,2015,Developing,73.2,98.0,0,97.0,98.0
+Saint Vincent and the Grenadines,2014,Developing,73.1,98.0,0,97.0,98.0
+Saint Vincent and the Grenadines,2013,Developing,72.7,97.0,0,97.0,97.0
+Saint Vincent and the Grenadines,2012,Developing,72.8,96.0,0,96.0,96.0
+Saint Vincent and the Grenadines,2011,Developing,72.7,96.0,0,96.0,96.0
+Saint Vincent and the Grenadines,2010,Developing,72.5,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2009,Developing,72.3,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2008,Developing,72.1,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2007,Developing,71.9,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2006,Developing,71.7,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2005,Developing,71.4,99.0,0,93.0,99.0
+Saint Vincent and the Grenadines,2004,Developing,71.2,99.0,0,99.0,99.0
+Saint Vincent and the Grenadines,2003,Developing,71.0,31.0,0,99.0,99.0
+Samoa,2015,Developing,74.0,59.0,0,61.0,66.0
+Samoa,2014,Developing,73.8,56.0,0,58.0,63.0
+Samoa,2013,Developing,73.6,6.0,0,62.0,67.0
+Samoa,2012,Developing,73.2,64.0,1,62.0,64.0
+Samoa,2011,Developing,73.0,58.0,0,6.0,65.0
+Samoa,2010,Developing,72.6,57.0,8,57.0,62.0
+Samoa,2009,Developing,76.0,44.0,0,45.0,49.0
+Samoa,2008,Developing,72.5,12.0,0,54.0,26.0
+Samoa,2007,Developing,72.2,46.0,0,49.0,53.0
+Samoa,2006,Developing,72.0,35.0,0,37.0,39.0
+Samoa,2005,Developing,71.6,41.0,0,55.0,49.0
+Samoa,2004,Developing,71.4,54.0,0,26.0,55.0
+Samoa,2003,Developing,79.0,83.0,0,82.0,83.0
+Samoa,2002,Developing,76.0,86.0,0,85.0,86.0
+Samoa,2001,Developing,75.0,89.0,0,83.0,85.0
+Samoa,2000,Developing,72.0,89.0,0,94.0,95.0
+Sao Tome and Principe,2015,Developing,67.5,96.0,0,96.0,96.0
+Sao Tome and Principe,2014,Developing,67.3,95.0,0,95.0,95.0
+Sao Tome and Principe,2013,Developing,67.1,97.0,0,97.0,97.0
+Sao Tome and Principe,2012,Developing,66.9,96.0,0,96.0,96.0
+Sao Tome and Principe,2011,Developing,66.6,96.0,0,96.0,96.0
+Sao Tome and Principe,2010,Developing,66.2,98.0,0,98.0,98.0
+Sao Tome and Principe,2009,Developing,65.8,98.0,0,99.0,98.0
+Sao Tome and Principe,2008,Developing,65.4,99.0,0,99.0,99.0
+Sao Tome and Principe,2007,Developing,65.1,87.0,0,98.0,97.0
+Sao Tome and Principe,2006,Developing,64.7,75.0,0,97.0,97.0
+Sao Tome and Principe,2005,Developing,64.3,96.0,0,97.0,97.0
+Sao Tome and Principe,2004,Developing,63.8,7.0,0,99.0,96.0
+Sao Tome and Principe,2003,Developing,63.4,43.0,0,94.0,94.0
+Saudi Arabia,2015,Developing,74.5,98.0,219,97.0,98.0
+Saudi Arabia,2014,Developing,74.4,98.0,154,98.0,98.0
+Saudi Arabia,2013,Developing,74.3,98.0,1164,98.0,98.0
+Saudi Arabia,2012,Developing,74.1,98.0,294,98.0,98.0
+Saudi Arabia,2011,Developing,73.9,98.0,362,98.0,98.0
+Saudi Arabia,2010,Developing,73.7,98.0,334,98.0,98.0
+Saudi Arabia,2009,Developing,73.4,98.0,82,98.0,98.0
+Saudi Arabia,2008,Developing,73.3,98.0,158,98.0,98.0
+Saudi Arabia,2007,Developing,73.2,96.0,4648,96.0,96.0
+Saudi Arabia,2006,Developing,73.2,96.0,807,96.0,96.0
+Saudi Arabia,2005,Developing,73.1,97.0,373,96.0,96.0
+Saudi Arabia,2004,Developing,73.1,96.0,1880,96.0,96.0
+Saudi Arabia,2003,Developing,73.0,95.0,1208,95.0,95.0
+Saudi Arabia,2002,Developing,72.9,97.0,311,95.0,95.0
+Saudi Arabia,2001,Developing,72.8,95.0,155,97.0,97.0
+Saudi Arabia,2000,Developing,72.6,93.0,0,95.0,95.0
+Senegal,2015,Developing,66.7,89.0,58,85.0,89.0
+Senegal,2014,Developing,66.4,89.0,32,85.0,89.0
+Senegal,2013,Developing,66.0,92.0,17,89.0,92.0
+Senegal,2012,Developing,65.6,91.0,46,83.0,91.0
+Senegal,2011,Developing,64.9,92.0,18,89.0,92.0
+Senegal,2010,Developing,64.3,89.0,428,76.0,89.0
+Senegal,2009,Developing,63.5,86.0,999,83.0,86.0
+Senegal,2008,Developing,62.8,88.0,6,87.0,88.0
+Senegal,2007,Developing,62.1,94.0,11,93.0,94.0
+Senegal,2006,Developing,61.3,89.0,3,89.0,89.0
+Senegal,2005,Developing,65.0,84.0,0,84.0,84.0
+Senegal,2004,Developing,59.7,54.0,31,87.0,87.0
+Serbia,2015,Developing,75.6,94.0,383,95.0,95.0
+Serbia,2014,Developing,75.4,92.0,37,93.0,93.0
+Serbia,2013,Developing,75.3,91.0,1,97.0,95.0
+Serbia,2012,Developing,74.9,97.0,0,93.0,91.0
+Serbia,2011,Developing,74.6,94.0,370,94.0,94.0
+Serbia,2010,Developing,74.4,89.0,20,91.0,91.0
+Serbia,2009,Developing,74.1,93.0,1,97.0,95.0
+Serbia,2008,Developing,74.0,93.0,2,95.0,95.0
+Serbia,2007,Developing,73.8,99.0,201,93.0,94.0
+Serbia,2006,Developing,73.6,93.0,2,97.0,92.0
+Serbia,2005,Developing,73.0,65.0,2,98.0,98.0
+Serbia,2004,Developing,73.0,89.0,11,96.0,88.0
+Seychelles,2015,Developing,73.2,98.0,0,97.0,97.0
+Seychelles,2014,Developing,73.0,99.0,0,99.0,99.0
+Seychelles,2013,Developing,72.9,99.0,0,98.0,98.0
+Seychelles,2012,Developing,72.7,99.0,0,98.0,98.0
+Seychelles,2011,Developing,72.6,99.0,0,99.0,99.0
+Seychelles,2010,Developing,72.4,99.0,0,99.0,99.0
+Seychelles,2009,Developing,72.3,99.0,0,99.0,99.0
+Seychelles,2008,Developing,72.2,99.0,0,99.0,99.0
+Seychelles,2007,Developing,72.2,99.0,1,99.0,99.0
+Seychelles,2006,Developing,72.2,99.0,10,99.0,99.0
+Seychelles,2005,Developing,72.2,99.0,0,99.0,99.0
+Seychelles,2004,Developing,72.1,99.0,0,99.0,99.0
+Seychelles,2003,Developing,72.1,99.0,0,99.0,99.0
+Seychelles,2002,Developing,72.1,99.0,0,99.0,99.0
+Seychelles,2001,Developing,72.0,96.0,0,96.0,96.0
+Seychelles,2000,Developing,71.8,98.0,0,98.0,98.0
+Sierra Leone,2015,Developing,51.0,86.0,607,86.0,86.0
+Sierra Leone,2014,Developing,48.1,83.0,1006,83.0,83.0
+Sierra Leone,2013,Developing,54.0,92.0,15,92.0,92.0
+Sierra Leone,2012,Developing,49.7,91.0,678,91.0,91.0
+Sierra Leone,2011,Developing,48.9,89.0,1865,88.0,89.0
+Sierra Leone,2010,Developing,48.1,86.0,1089,84.0,86.0
+Sierra Leone,2009,Developing,47.1,84.0,31,81.0,84.0
+Sierra Leone,2008,Developing,46.2,77.0,44,75.0,77.0
+Sierra Leone,2007,Developing,45.3,63.0,0,63.0,64.0
+Singapore,2015,Developed,83.1,96.0,0,96.0,96.0
+Singapore,2014,Developed,82.9,96.0,0,96.0,96.0
+Singapore,2013,Developed,82.7,97.0,138,97.0,97.0
+Singapore,2012,Developed,82.5,97.0,42,97.0,97.0
+Singapore,2011,Developed,82.2,96.0,148,96.0,96.0
+Singapore,2010,Developed,82.0,96.0,50,96.0,96.0
+Singapore,2009,Developed,81.7,96.0,16,97.0,97.0
+Singapore,2008,Developed,81.4,97.0,18,97.0,97.0
+Singapore,2007,Developed,81.1,96.0,15,97.0,97.0
+Singapore,2006,Developed,87.0,95.0,23,95.0,95.0
+Singapore,2005,Developed,82.0,96.0,33,96.0,96.0
+Singapore,2004,Developed,79.7,94.0,96,95.0,95.0
+Singapore,2003,Developed,79.3,95.0,33,96.0,96.0
+Singapore,2002,Developed,79.0,95.0,211,94.0,94.0
+Singapore,2001,Developed,78.7,95.0,408,95.0,96.0
+Singapore,2000,Developed,78.3,97.0,141,98.0,98.0
+Slovakia,2015,Developed,76.7,96.0,1,96.0,96.0
+Slovakia,2014,Developed,76.4,97.0,0,97.0,97.0
+Slovakia,2013,Developed,76.1,98.0,0,98.0,98.0
+Slovakia,2012,Developed,75.8,99.0,0,99.0,99.0
+Slovakia,2011,Developed,75.6,99.0,0,99.0,99.0
+Slovakia,2010,Developed,75.1,99.0,0,99.0,99.0
+Slovakia,2009,Developed,75.0,99.0,0,99.0,99.0
+Slovakia,2008,Developed,74.7,99.0,0,99.0,99.0
+Slovakia,2007,Developed,74.4,99.0,0,99.0,99.0
+Slovakia,2006,Developed,74.3,99.0,0,99.0,99.0
+Slovakia,2005,Developed,74.0,99.0,0,99.0,99.0
+Slovakia,2004,Developed,74.1,99.0,2,99.0,99.0
+Slovakia,2003,Developed,73.8,99.0,1,98.0,99.0
+Slovakia,2002,Developed,73.7,99.0,0,98.0,99.0
+Slovakia,2001,Developed,73.3,99.0,0,99.0,99.0
+Slovakia,2000,Developed,73.0,98.0,0,98.0,99.0
+Solomon Islands,2015,Developing,69.2,98.0,0,99.0,98.0
+Solomon Islands,2014,Developing,68.8,88.0,0,94.0,88.0
+Solomon Islands,2013,Developing,68.8,94.0,0,99.0,94.0
+Solomon Islands,2012,Developing,68.7,99.0,0,99.0,99.0
+Solomon Islands,2011,Developing,68.5,99.0,0,99.0,99.0
+Solomon Islands,2010,Developing,68.3,9.0,0,94.0,9.0
+Solomon Islands,2009,Developing,68.1,92.0,0,98.0,92.0
+Solomon Islands,2008,Developing,68.0,89.0,0,94.0,89.0
+Solomon Islands,2007,Developing,67.6,9.0,0,93.0,9.0
+Solomon Islands,2006,Developing,67.6,99.0,0,99.0,99.0
+Solomon Islands,2005,Developing,67.4,83.0,0,9.0,89.0
+Solomon Islands,2004,Developing,67.1,81.0,0,89.0,9.0
+Solomon Islands,2003,Developing,66.8,79.0,0,84.0,84.0
+Solomon Islands,2002,Developing,66.5,75.0,0,78.0,78.0
+Solomon Islands,2001,Developing,66.2,83.0,0,88.0,84.0
+Solomon Islands,2000,Developing,65.8,81.0,0,88.0,86.0
+Somalia,2015,Developing,55.0,42.0,7497,47.0,42.0
+Somalia,2014,Developing,54.3,42.0,10229,47.0,42.0
+Somalia,2013,Developing,54.2,42.0,3173,47.0,42.0
+South Africa,2015,Developing,62.9,75.0,17,75.0,75.0
+South Africa,2014,Developing,62.0,8.0,66,77.0,77.0
+South Africa,2013,Developing,69.0,7.0,25,73.0,73.0
+South Africa,2012,Developing,59.2,68.0,32,65.0,65.0
+South Africa,2011,Developing,58.9,76.0,92,69.0,69.0
+South Africa,2010,Developing,58.0,71.0,12499,72.0,72.0
+South Africa,2009,Developing,56.5,74.0,5857,75.0,76.0
+South Africa,2008,Developing,55.3,76.0,39,77.0,79.0
+South Africa,2007,Developing,54.5,83.0,31,79.0,82.0
+South Africa,2006,Developing,54.0,83.0,81,79.0,82.0
+South Africa,2005,Developing,53.8,79.0,615,75.0,79.0
+South Africa,2004,Developing,53.7,76.0,830,73.0,74.0
+South Africa,2003,Developing,54.0,71.0,244,7.0,69.0
+South Africa,2002,Developing,54.9,72.0,1043,7.0,7.0
+South Africa,2001,Developing,56.0,72.0,1166,71.0,71.0
+South Africa,2000,Developing,57.3,73.0,1459,71.0,73.0
+South Sudan,2015,Developing,57.3,31.0,878,41.0,31.0
+Spain,2015,Developed,82.8,97.0,115,97.0,97.0
+Spain,2014,Developed,82.6,96.0,154,97.0,97.0
+Spain,2013,Developed,82.4,95.0,131,96.0,96.0
+Spain,2012,Developed,82.0,96.0,1204,97.0,97.0
+Spain,2011,Developed,82.1,97.0,3802,97.0,97.0
+Spain,2010,Developed,81.9,97.0,302,97.0,97.0
+Spain,2009,Developed,81.6,96.0,41,96.0,96.0
+Spain,2008,Developed,81.3,97.0,297,97.0,97.0
+Spain,2007,Developed,89.0,96.0,267,96.0,96.0
+Spain,2006,Developed,88.0,97.0,362,98.0,98.0
+Spain,2005,Developed,81.0,96.0,22,96.0,96.0
+Spain,2004,Developed,81.0,97.0,26,97.0,97.0
+Spain,2003,Developed,79.4,81.0,256,99.0,98.0
+Spain,2002,Developed,79.5,82.0,67,98.0,98.0
+Spain,2001,Developed,79.4,83.0,0,95.0,96.0
+Spain,2000,Developed,79.1,77.0,152,95.0,95.0
+Sri Lanka,2015,Developing,74.9,99.0,1568,99.0,99.0
+Sri Lanka,2014,Developing,74.7,99.0,1686,99.0,99.0
+Sri Lanka,2013,Developing,74.6,99.0,2107,99.0,99.0
+Sri Lanka,2012,Developing,74.5,99.0,51,99.0,99.0
+Sri Lanka,2011,Developing,74.5,99.0,60,99.0,99.0
+Sri Lanka,2010,Developing,74.5,99.0,79,99.0,99.0
+Sri Lanka,2009,Developing,71.8,97.0,21,97.0,97.0
+Sri Lanka,2008,Developing,72.3,98.0,33,98.0,98.0
+Sri Lanka,2007,Developing,73.7,98.0,44,98.0,98.0
+Sri Lanka,2006,Developing,73.8,98.0,0,98.0,98.0
+Sri Lanka,2005,Developing,74.2,99.0,3,99.0,99.0
+Sri Lanka,2004,Developing,69.1,62.0,35,97.0,97.0
+Sri Lanka,2003,Developing,73.9,32.0,65,98.0,99.0
+Sudan,2015,Developing,64.1,93.0,3585,93.0,93.0
+Sudan,2014,Developing,63.8,94.0,676,94.0,94.0
+Sudan,2013,Developing,63.5,93.0,2813,93.0,93.0
+Sudan,2012,Developing,63.2,92.0,8523,92.0,92.0
+Sudan,2011,Developing,62.7,93.0,5616,93.0,93.0
+Sudan,2010,Developing,62.5,75.0,680,9.0,9.0
+Sudan,2009,Developing,62.0,72.0,68,81.0,81.0
+Sudan,2008,Developing,61.8,78.0,129,85.0,86.0
+Sudan,2007,Developing,61.4,78.0,327,84.0,84.0
+Sudan,2006,Developing,61.0,6.0,228,77.0,78.0
+Sudan,2005,Developing,67.0,22.0,1374,78.0,78.0
+Suriname,2015,Developing,71.6,89.0,0,89.0,89.0
+Suriname,2014,Developing,71.4,85.0,0,85.0,85.0
+Suriname,2013,Developing,71.2,86.0,0,86.0,86.0
+Suriname,2012,Developing,71.3,84.0,0,84.0,84.0
+Suriname,2011,Developing,76.0,86.0,0,86.0,86.0
+Suriname,2010,Developing,73.0,86.0,0,96.0,96.0
+Suriname,2009,Developing,70.0,87.0,0,85.0,87.0
+Suriname,2008,Developing,69.8,84.0,0,85.0,85.0
+Suriname,2007,Developing,69.5,84.0,0,84.0,84.0
+Suriname,2006,Developing,69.3,84.0,0,84.0,84.0
+Suriname,2005,Developing,68.9,83.0,0,84.0,83.0
+Swaziland,2015,Developing,58.9,9.0,0,84.0,9.0
+Swaziland,2014,Developing,58.4,98.0,0,98.0,98.0
+Swaziland,2013,Developing,57.6,98.0,0,98.0,98.0
+Swaziland,2012,Developing,56.5,95.0,0,92.0,95.0
+Swaziland,2011,Developing,55.0,91.0,0,85.0,91.0
+Swaziland,2010,Developing,53.6,89.0,313,89.0,89.0
+Swaziland,2009,Developing,52.6,88.0,26,89.0,88.0
+Swaziland,2008,Developing,51.4,9.0,1,89.0,88.0
+Swaziland,2007,Developing,50.0,92.0,0,88.0,87.0
+Swaziland,2006,Developing,47.8,93.0,0,88.0,87.0
+Swaziland,2005,Developing,46.0,95.0,0,88.0,86.0
+Swaziland,2004,Developing,45.6,93.0,0,88.0,86.0
+Swaziland,2003,Developing,45.9,9.0,350,87.0,85.0
+Swaziland,2002,Developing,46.4,88.0,37,87.0,85.0
+Swaziland,2001,Developing,47.1,86.0,49,87.0,84.0
+Swaziland,2000,Developing,48.4,83.0,10,87.0,84.0
+Sweden,2015,Developed,82.4,67.0,22,98.0,98.0
+Sweden,2014,Developed,82.3,67.0,26,98.0,98.0
+Sweden,2013,Developed,81.9,67.0,51,98.0,98.0
+Sweden,2012,Developed,81.7,53.0,30,98.0,98.0
+Sweden,2011,Developed,81.7,42.0,26,98.0,98.0
+Syrian Arab Republic,2015,Developing,64.5,41.0,45,5.0,41.0
+Syrian Arab Republic,2014,Developing,64.4,47.0,594,52.0,43.0
+Syrian Arab Republic,2013,Developing,63.6,71.0,740,5.0,41.0
+Syrian Arab Republic,2012,Developing,62.8,43.0,13,47.0,45.0
+Syrian Arab Republic,2011,Developing,71.7,66.0,13,6.0,72.0
+Syrian Arab Republic,2010,Developing,73.7,84.0,26,83.0,8.0
+Syrian Arab Republic,2009,Developing,73.8,84.0,22,83.0,8.0
+Syrian Arab Republic,2008,Developing,73.8,83.0,19,83.0,79.0
+Syrian Arab Republic,2007,Developing,73.8,83.0,403,83.0,8.0
+Syrian Arab Republic,2006,Developing,73.7,83.0,517,83.0,8.0
+Syrian Arab Republic,2005,Developing,73.5,83.0,375,83.0,8.0
+Syrian Arab Republic,2004,Developing,73.2,82.0,189,84.0,81.0
+Syrian Arab Republic,2003,Developing,73.0,81.0,801,85.0,83.0
+Syrian Arab Republic,2002,Developing,72.8,8.0,538,86.0,84.0
+Syrian Arab Republic,2001,Developing,72.7,8.0,290,83.0,82.0
+Syrian Arab Republic,2000,Developing,72.6,79.0,146,86.0,84.0
+Tajikistan,2015,Developing,69.7,96.0,3,96.0,96.0
+Tajikistan,2014,Developing,69.6,97.0,0,94.0,97.0
+Tajikistan,2013,Developing,69.3,96.0,1,97.0,96.0
+Tajikistan,2012,Developing,68.8,94.0,16,96.0,94.0
+Tajikistan,2011,Developing,68.1,96.0,1,97.0,96.0
+Tajikistan,2010,Developing,67.3,93.0,0,95.0,93.0
+Tajikistan,2009,Developing,66.7,93.0,0,93.0,93.0
+Tajikistan,2008,Developing,66.4,86.0,0,87.0,86.0
+Tajikistan,2007,Developing,66.1,84.0,2,85.0,86.0
+Tajikistan,2006,Developing,65.9,88.0,3,76.0,83.0
+Tajikistan,2005,Developing,65.5,81.0,0,79.0,84.0
+Tajikistan,2004,Developing,65.9,81.0,4,82.0,86.0
+Tajikistan,2003,Developing,65.2,58.0,2144,82.0,85.0
+Tajikistan,2002,Developing,64.3,39.0,927,84.0,85.0
+Thailand,2015,Developing,74.9,99.0,154,99.0,99.0
+Thailand,2014,Developing,74.6,99.0,0,99.0,99.0
+Thailand,2013,Developing,74.5,99.0,2641,99.0,99.0
+Thailand,2012,Developing,74.3,98.0,5197,99.0,99.0
+Thailand,2011,Developing,74.1,98.0,3156,99.0,99.0
+Thailand,2010,Developing,73.9,98.0,2583,99.0,99.0
+Thailand,2009,Developing,73.7,98.0,6071,99.0,99.0
+Thailand,2008,Developing,73.5,98.0,7790,99.0,99.0
+Thailand,2007,Developing,73.3,96.0,3893,98.0,98.0
+Thailand,2006,Developing,73.0,96.0,3588,98.0,98.0
+Thailand,2005,Developing,72.5,96.0,3526,98.0,98.0
+Thailand,2004,Developing,71.6,96.0,4165,98.0,98.0
+Thailand,2003,Developing,71.7,96.0,4519,98.0,98.0
+Thailand,2002,Developing,71.4,95.0,10315,97.0,96.0
+Thailand,2001,Developing,71.2,95.0,7319,97.0,96.0
+Thailand,2000,Developing,71.1,95.0,4074,97.0,97.0
+The former Yugoslav republic of Macedonia,2015,Developing,75.7,92.0,1,92.0,91.0
+The former Yugoslav republic of Macedonia,2014,Developing,75.5,97.0,116,96.0,95.0
+The former Yugoslav republic of Macedonia,2013,Developing,75.3,97.0,4,98.0,98.0
+The former Yugoslav republic of Macedonia,2012,Developing,75.1,98.0,7,97.0,95.0
+The former Yugoslav republic of Macedonia,2011,Developing,74.9,96.0,701,97.0,96.0
+The former Yugoslav republic of Macedonia,2010,Developing,74.7,9.0,217,95.0,95.0
+The former Yugoslav republic of Macedonia,2009,Developing,74.4,95.0,5,96.0,96.0
+The former Yugoslav republic of Macedonia,2008,Developing,74.2,97.0,27,96.0,95.0
+The former Yugoslav republic of Macedonia,2007,Developing,73.5,96.0,1,96.0,95.0
+The former Yugoslav republic of Macedonia,2006,Developing,73.7,89.0,3,92.0,93.0
+The former Yugoslav republic of Macedonia,2005,Developing,73.6,53.0,5,98.0,97.0
+Timor-Leste,2015,Developing,68.3,76.0,43,75.0,76.0
+Timor-Leste,2014,Developing,68.0,77.0,47,76.0,77.0
+Timor-Leste,2013,Developing,67.7,82.0,4,82.0,82.0
+Timor-Leste,2012,Developing,67.4,83.0,16,83.0,83.0
+Timor-Leste,2011,Developing,67.2,67.0,763,66.0,67.0
+Timor-Leste,2010,Developing,66.9,72.0,50,72.0,72.0
+Timor-Leste,2009,Developing,66.6,72.0,10,78.0,72.0
+Timor-Leste,2008,Developing,66.2,79.0,0,79.0,79.0
+Togo,2015,Developing,59.9,88.0,20,88.0,88.0
+Togo,2014,Developing,59.7,87.0,577,85.0,87.0
+Togo,2013,Developing,59.4,84.0,564,84.0,84.0
+Togo,2012,Developing,58.9,84.0,238,84.0,84.0
+Togo,2011,Developing,58.3,85.0,187,85.0,85.0
+Togo,2010,Developing,57.4,83.0,120,83.0,83.0
+Togo,2009,Developing,56.7,78.0,425,78.0,78.0
+Togo,2008,Developing,56.2,24.0,187,8.0,81.0
+Tonga,2015,Developing,73.5,78.0,0,8.0,78.0
+Tonga,2014,Developing,73.3,8.0,0,82.0,8.0
+Tonga,2013,Developing,73.2,82.0,0,84.0,82.0
+Tonga,2012,Developing,73.0,77.0,0,79.0,77.0
+Tonga,2011,Developing,72.9,82.0,0,84.0,82.0
+Tonga,2010,Developing,72.8,82.0,0,84.0,82.0
+Tonga,2009,Developing,72.5,84.0,0,86.0,84.0
+Tonga,2008,Developing,72.6,84.0,0,88.0,86.0
+Tonga,2007,Developing,72.5,87.0,0,88.0,87.0
+Tonga,2006,Developing,72.4,89.0,0,89.0,88.0
+Tonga,2005,Developing,72.3,89.0,0,9.0,89.0
+Tonga,2004,Developing,72.2,9.0,0,91.0,9.0
+Tonga,2003,Developing,72.0,85.0,0,91.0,9.0
+Tonga,2002,Developing,71.9,88.0,0,85.0,84.0
+Tonga,2001,Developing,71.8,91.0,4,91.0,89.0
+Tonga,2000,Developing,71.6,93.0,0,91.0,91.0
+Trinidad and Tobago,2015,Developing,71.2,9.0,0,88.0,96.0
+Trinidad and Tobago,2014,Developing,71.1,92.0,0,94.0,92.0
+Trinidad and Tobago,2013,Developing,71.0,92.0,0,94.0,92.0
+Trinidad and Tobago,2012,Developing,78.0,92.0,0,91.0,92.0
+Trinidad and Tobago,2011,Developing,76.0,9.0,0,91.0,9.0
+Trinidad and Tobago,2010,Developing,74.0,9.0,0,91.0,9.0
+Trinidad and Tobago,2009,Developing,71.0,9.0,0,9.0,9.0
+Trinidad and Tobago,2008,Developing,69.9,9.0,0,91.0,9.0
+Trinidad and Tobago,2007,Developing,69.7,89.0,0,9.0,88.0
+Trinidad and Tobago,2006,Developing,69.6,89.0,0,89.0,92.0
+Trinidad and Tobago,2005,Developing,69.5,95.0,0,95.0,95.0
+Trinidad and Tobago,2004,Developing,69.4,94.0,0,94.0,94.0
+Trinidad and Tobago,2003,Developing,69.3,76.0,0,91.0,91.0
+Trinidad and Tobago,2002,Developing,69.2,5.0,0,96.0,96.0
+Tunisia,2015,Developing,75.3,98.0,16,98.0,98.0
+Tunisia,2014,Developing,75.1,98.0,15,98.0,98.0
+Tunisia,2013,Developing,74.9,98.0,16,98.0,98.0
+Tunisia,2012,Developing,74.9,97.0,48,97.0,97.0
+Tunisia,2011,Developing,74.8,98.0,11,98.0,98.0
+Tunisia,2010,Developing,74.8,98.0,1,98.0,98.0
+Tunisia,2009,Developing,74.7,99.0,1,99.0,99.0
+Tunisia,2008,Developing,74.7,99.0,2,99.0,99.0
+Tunisia,2007,Developing,74.6,98.0,4,98.0,98.0
+Tunisia,2006,Developing,74.4,99.0,3,99.0,99.0
+Tunisia,2005,Developing,74.2,97.0,15,98.0,98.0
+Tunisia,2004,Developing,74.0,96.0,1,97.0,97.0
+Tunisia,2003,Developing,73.7,92.0,22,95.0,95.0
+Tunisia,2002,Developing,73.5,93.0,98,96.0,96.0
+Tunisia,2001,Developing,73.2,94.0,231,98.0,98.0
+Tunisia,2000,Developing,72.9,94.0,47,97.0,97.0
+Turkey,2015,Developing,75.8,97.0,342,97.0,97.0
+Turkey,2014,Developing,75.5,96.0,565,96.0,96.0
+Turkey,2013,Developing,75.2,97.0,7405,98.0,98.0
+Turkey,2012,Developing,74.8,97.0,349,97.0,97.0
+Turkey,2011,Developing,74.5,96.0,111,97.0,97.0
+Turkey,2010,Developing,74.2,96.0,7,97.0,97.0
+Turkey,2009,Developing,73.9,94.0,4,96.0,96.0
+Turkey,2008,Developing,73.5,92.0,0,96.0,96.0
+Turkey,2007,Developing,73.2,96.0,3,96.0,96.0
+Turkey,2006,Developing,72.8,82.0,34,9.0,9.0
+Turkey,2005,Developing,72.4,85.0,6200,9.0,9.0
+Turkey,2004,Developing,72.0,77.0,8927,85.0,85.0
+Turkey,2003,Developing,71.6,68.0,5844,69.0,68.0
+Turkey,2002,Developing,71.2,72.0,7823,78.0,78.0
+Turkey,2001,Developing,78.0,77.0,30509,88.0,88.0
+Turkey,2000,Developing,74.0,71.0,16244,85.0,85.0
+Turkmenistan,2015,Developing,66.3,99.0,0,99.0,99.0
+Turkmenistan,2014,Developing,66.0,97.0,0,98.0,98.0
+Turkmenistan,2013,Developing,65.4,98.0,0,98.0,98.0
+Turkmenistan,2012,Developing,65.6,98.0,0,98.0,97.0
+Turkmenistan,2011,Developing,65.6,97.0,0,97.0,97.0
+Turkmenistan,2010,Developing,65.8,96.0,0,96.0,96.0
+Turkmenistan,2009,Developing,65.6,97.0,0,97.0,96.0
+Turkmenistan,2008,Developing,64.5,96.0,0,96.0,96.0
+Turkmenistan,2007,Developing,64.1,98.0,59,98.0,98.0
+Turkmenistan,2006,Developing,63.7,98.0,48,98.0,98.0
+Turkmenistan,2005,Developing,63.3,99.0,0,99.0,99.0
+Turkmenistan,2004,Developing,63.5,96.0,1,98.0,97.0
+Turkmenistan,2003,Developing,63.4,97.0,1,66.0,83.0
+Turkmenistan,2002,Developing,63.3,96.0,11,99.0,98.0
+Uganda,2015,Developing,62.3,78.0,478,82.0,78.0
+Uganda,2014,Developing,61.5,78.0,314,82.0,78.0
+Uganda,2013,Developing,67.0,78.0,7878,82.0,78.0
+Uganda,2012,Developing,60.0,78.0,2027,82.0,78.0
+Uganda,2011,Developing,59.3,82.0,3312,82.0,82.0
+Uganda,2010,Developing,58.4,8.0,1313,79.0,8.0
+Uganda,2009,Developing,57.5,79.0,1601,78.0,79.0
+Uganda,2008,Developing,56.3,71.0,1319,69.0,71.0
+Uganda,2007,Developing,55.5,73.0,3776,7.0,73.0
+Uganda,2006,Developing,54.9,64.0,5736,62.0,64.0
+Uganda,2005,Developing,53.2,64.0,22,59.0,64.0
+Uganda,2004,Developing,51.3,62.0,141,58.0,62.0
+Uganda,2003,Developing,51.0,44.0,29429,57.0,59.0
+Uganda,2002,Developing,48.8,29.0,49871,57.0,57.0
+Ukraine,2015,Developing,71.3,22.0,105,51.0,23.0
+Ukraine,2014,Developing,78.0,22.0,0,45.0,23.0
+Ukraine,2013,Developing,71.0,46.0,0,72.0,76.0
+Ukraine,2012,Developing,77.0,46.0,12746,72.0,76.0
+Ukraine,2011,Developing,75.0,21.0,1333,54.0,5.0
+Ukraine,2010,Developing,69.8,48.0,39,57.0,52.0
+Ukraine,2009,Developing,69.2,66.0,0,74.0,71.0
+Ukraine,2008,Developing,67.7,84.0,48,91.0,9.0
+Ukraine,2007,Developing,67.5,92.0,1005,98.0,98.0
+Ukraine,2006,Developing,67.7,96.0,42724,99.0,98.0
+Ukraine,2005,Developing,67.0,97.0,2392,95.0,96.0
+Ukraine,2004,Developing,67.4,98.0,146,99.0,99.0
+Ukraine,2003,Developing,67.6,77.0,411,99.0,97.0
+Ukraine,2002,Developing,67.6,48.0,7587,99.0,99.0
+Ukraine,2001,Developing,67.7,7.0,16970,99.0,99.0
+Ukraine,2000,Developing,67.5,4.0,817,99.0,99.0
+United Arab Emirates,2015,Developing,77.1,99.0,347,99.0,99.0
+United Arab Emirates,2014,Developing,76.9,99.0,344,99.0,99.0
+United Arab Emirates,2013,Developing,76.7,98.0,0,98.0,98.0
+United Arab Emirates,2012,Developing,76.5,96.0,132,96.0,96.0
+United Arab Emirates,2011,Developing,76.3,95.0,0,95.0,95.0
+United Arab Emirates,2010,Developing,76.2,94.0,87,94.0,94.0
+United Arab Emirates,2009,Developing,76.0,93.0,0,94.0,93.0
+United Arab Emirates,2008,Developing,75.8,92.0,55,94.0,92.0
+United Arab Emirates,2007,Developing,75.6,92.0,0,94.0,92.0
+United Arab Emirates,2006,Developing,75.4,92.0,0,94.0,92.0
+United Arab Emirates,2005,Developing,75.3,92.0,29,94.0,94.0
+United Arab Emirates,2004,Developing,75.1,92.0,22,94.0,94.0
+United Arab Emirates,2003,Developing,74.9,92.0,42,94.0,94.0
+United Arab Emirates,2002,Developing,74.7,92.0,53,94.0,94.0
+United Arab Emirates,2001,Developing,74.5,92.0,30,94.0,94.0
+United Arab Emirates,2000,Developing,74.2,92.0,69,94.0,94.0
+United Republic of Tanzania,2015,Developing,61.8,98.0,30,96.0,98.0
+United Republic of Tanzania,2014,Developing,67.0,97.0,88,97.0,97.0
+United Republic of Tanzania,2013,Developing,59.7,91.0,185,91.0,91.0
+United Republic of Tanzania,2012,Developing,58.6,92.0,1668,9.0,92.0
+United Republic of Tanzania,2011,Developing,58.3,9.0,1622,88.0,9.0
+United Republic of Tanzania,2010,Developing,57.5,91.0,167,94.0,91.0
+United Republic of Tanzania,2009,Developing,56.9,85.0,1574,88.0,85.0
+United Republic of Tanzania,2008,Developing,56.2,86.0,3413,89.0,86.0
+United Republic of Tanzania,2007,Developing,54.5,83.0,7726,88.0,83.0
+United Republic of Tanzania,2006,Developing,53.1,9.0,2362,91.0,9.0
+United Republic of Tanzania,2005,Developing,52.2,9.0,23,91.0,9.0
+United Republic of Tanzania,2004,Developing,51.5,95.0,1419,95.0,95.0
+United Republic of Tanzania,2003,Developing,58.0,95.0,1673,97.0,95.0
+United Republic of Tanzania,2002,Developing,52.0,89.0,5131,91.0,89.0
+United States of America,2015,Developed,79.3,92.0,188,93.0,95.0
+United States of America,2014,Developed,79.1,92.0,667,93.0,95.0
+United States of America,2013,Developed,78.9,91.0,187,93.0,94.0
+United States of America,2012,Developed,78.8,9.0,55,93.0,94.0
+United States of America,2011,Developed,78.7,91.0,220,94.0,96.0
+United States of America,2010,Developed,78.7,92.0,63,93.0,95.0
+United States of America,2009,Developed,78.5,92.0,71,93.0,95.0
+United States of America,2008,Developed,78.2,94.0,140,94.0,96.0
+United States of America,2007,Developed,78.1,93.0,43,93.0,96.0
+United States of America,2006,Developed,77.8,93.0,55,93.0,96.0
+United States of America,2005,Developed,77.5,93.0,66,92.0,96.0
+United States of America,2004,Developed,77.5,92.0,37,92.0,96.0
+United States of America,2003,Developed,77.2,92.0,56,91.0,96.0
+United States of America,2002,Developed,77.0,88.0,41,9.0,94.0
+United States of America,2001,Developed,76.9,89.0,116,89.0,94.0
+United States of America,2000,Developed,76.8,9.0,85,9.0,94.0
+Uruguay,2015,Developing,77.0,95.0,0,95.0,95.0
+Uruguay,2014,Developing,76.8,95.0,0,95.0,95.0
+Uruguay,2013,Developing,76.8,94.0,0,94.0,94.0
+Uruguay,2012,Developing,76.5,95.0,0,95.0,95.0
+Uruguay,2011,Developing,77.0,95.0,0,95.0,95.0
+Uruguay,2010,Developing,76.3,95.0,0,95.0,95.0
+Uruguay,2009,Developing,76.6,95.0,0,95.0,95.0
+Uruguay,2008,Developing,76.4,94.0,0,94.0,94.0
+Uruguay,2007,Developing,75.4,94.0,0,94.0,94.0
+Uruguay,2006,Developing,76.2,95.0,0,95.0,95.0
+Uruguay,2005,Developing,75.7,96.0,0,96.0,96.0
+Uruguay,2004,Developing,75.4,94.0,0,95.0,94.0
+Uruguay,2003,Developing,75.4,91.0,0,91.0,91.0
+Uruguay,2002,Developing,75.4,95.0,0,93.0,95.0
+Uruguay,2001,Developing,75.2,94.0,0,94.0,94.0
+Uruguay,2000,Developing,75.1,92.0,0,92.0,9.0
+Uzbekistan,2015,Developing,69.4,99.0,22,99.0,99.0
+Uzbekistan,2014,Developing,69.2,99.0,8,99.0,99.0
+Uzbekistan,2013,Developing,69.1,99.0,0,99.0,99.0
+Uzbekistan,2012,Developing,68.8,99.0,0,99.0,99.0
+Uzbekistan,2011,Developing,68.5,99.0,476,99.0,99.0
+Uzbekistan,2010,Developing,68.3,99.0,117,99.0,99.0
+Uzbekistan,2009,Developing,68.0,98.0,0,99.0,98.0
+Uzbekistan,2008,Developing,67.9,91.0,2,98.0,98.0
+Uzbekistan,2007,Developing,67.8,99.0,863,98.0,96.0
+Uzbekistan,2006,Developing,67.6,98.0,823,94.0,96.0
+Uzbekistan,2005,Developing,67.3,99.0,737,99.0,99.0
+Uzbekistan,2004,Developing,67.8,99.0,75,99.0,99.0
+Uzbekistan,2003,Developing,67.2,99.0,85,99.0,98.0
+Uzbekistan,2002,Developing,67.1,62.0,25,99.0,99.0
+Vanuatu,2015,Developing,72.0,64.0,39,65.0,64.0
+Vanuatu,2014,Developing,71.7,64.0,10,65.0,64.0
+Vanuatu,2013,Developing,71.6,64.0,0,65.0,64.0
+Vanuatu,2012,Developing,71.4,64.0,0,65.0,64.0
+Vanuatu,2011,Developing,71.2,63.0,0,65.0,65.0
+Vanuatu,2010,Developing,71.0,62.0,0,66.0,65.0
+Vanuatu,2009,Developing,78.0,62.0,0,66.0,66.0
+Vanuatu,2008,Developing,75.0,61.0,0,66.0,67.0
+Vanuatu,2007,Developing,73.0,6.0,0,67.0,67.0
+Vanuatu,2006,Developing,71.0,59.0,0,67.0,68.0
+Vanuatu,2005,Developing,69.9,61.0,3,67.0,68.0
+Vanuatu,2004,Developing,69.6,63.0,0,67.0,69.0
+Vanuatu,2003,Developing,69.4,64.0,165,67.0,69.0
+Vanuatu,2002,Developing,69.3,66.0,101,67.0,7.0
+Vanuatu,2001,Developing,69.1,68.0,7,67.0,7.0
+Vanuatu,2000,Developing,69.0,7.0,9,67.0,71.0
+Venezuela (Bolivarian Republic of),2015,Developing,74.1,87.0,0,87.0,87.0
+Venezuela (Bolivarian Republic of),2014,Developing,73.9,78.0,0,79.0,78.0
+Venezuela (Bolivarian Republic of),2013,Developing,73.8,82.0,0,82.0,82.0
+Venezuela (Bolivarian Republic of),2012,Developing,73.7,81.0,1,73.0,81.0
+Venezuela (Bolivarian Republic of),2011,Developing,73.8,78.0,0,78.0,78.0
+Venezuela (Bolivarian Republic of),2010,Developing,73.7,78.0,0,74.0,78.0
+Venezuela (Bolivarian Republic of),2009,Developing,73.6,84.0,0,75.0,84.0
+Venezuela (Bolivarian Republic of),2008,Developing,73.2,53.0,0,76.0,5.0
+Venezuela (Bolivarian Republic of),2007,Developing,73.4,62.0,32,67.0,62.0
+Venezuela (Bolivarian Republic of),2006,Developing,73.6,71.0,78,73.0,71.0
+Venezuela (Bolivarian Republic of),2005,Developing,73.6,88.0,0,8.0,87.0
+Venezuela (Bolivarian Republic of),2004,Developing,73.3,82.0,0,83.0,86.0
+Venezuela (Bolivarian Republic of),2003,Developing,72.4,72.0,0,86.0,68.0
+Venezuela (Bolivarian Republic of),2002,Developing,73.1,6.0,2392,81.0,65.0
+Venezuela (Bolivarian Republic of),2001,Developing,72.5,53.0,115,87.0,7.0
+Venezuela (Bolivarian Republic of),2000,Developing,72.5,5.0,22,86.0,77.0
+Viet Nam,2015,Developing,76.0,97.0,256,97.0,97.0
+Viet Nam,2014,Developing,75.9,95.0,15033,96.0,95.0
+Viet Nam,2013,Developing,75.7,59.0,1123,93.0,59.0
+Viet Nam,2012,Developing,75.6,97.0,578,97.0,97.0
+Viet Nam,2011,Developing,75.4,95.0,750,96.0,95.0
+Viet Nam,2010,Developing,75.2,88.0,2809,94.0,93.0
+Viet Nam,2009,Developing,75.0,94.0,6582,97.0,96.0
+Viet Nam,2008,Developing,74.9,87.0,352,93.0,93.0
+Viet Nam,2007,Developing,74.7,67.0,17,92.0,92.0
+Viet Nam,2006,Developing,74.6,93.0,1978,94.0,94.0
+Viet Nam,2005,Developing,74.4,94.0,410,94.0,95.0
+Viet Nam,2004,Developing,74.2,94.0,217,96.0,96.0
+Viet Nam,2003,Developing,74.0,78.0,2297,96.0,99.0
+Yemen,2015,Developing,65.7,69.0,468,63.0,69.0
+Yemen,2014,Developing,65.4,73.0,815,67.0,73.0
+Yemen,2013,Developing,65.4,73.0,400,67.0,73.0
+Yemen,2012,Developing,64.7,67.0,2177,68.0,67.0
+Yemen,2011,Developing,64.6,69.0,2676,69.0,69.0
+Yemen,2010,Developing,64.4,76.0,510,77.0,76.0
+Yemen,2009,Developing,64.1,76.0,130,76.0,76.0
+Yemen,2008,Developing,63.8,78.0,7,78.0,78.0
+Yemen,2007,Developing,63.4,79.0,13,79.0,79.0
+Yemen,2006,Developing,63.0,78.0,8079,78.0,78.0
+Yemen,2005,Developing,62.6,8.0,6285,8.0,79.0
+Yemen,2004,Developing,62.2,43.0,12708,72.0,72.0
+Yemen,2003,Developing,61.9,38.0,8536,61.0,61.0
+Yemen,2002,Developing,61.5,31.0,890,64.0,65.0
+Yemen,2001,Developing,61.1,19.0,485,73.0,73.0
+Yemen,2000,Developing,68.0,14.0,0,74.0,74.0
+Zambia,2015,Developing,61.8,9.0,9,9.0,9.0
+Zambia,2014,Developing,61.1,86.0,9,78.0,86.0
+Zambia,2013,Developing,63.0,79.0,35,74.0,79.0
+Zambia,2012,Developing,59.2,78.0,896,7.0,78.0
+Zambia,2011,Developing,58.2,81.0,13234,83.0,81.0
+Zambia,2010,Developing,58.0,83.0,15754,8.0,83.0
+Zambia,2009,Developing,57.4,94.0,26,93.0,94.0
+Zambia,2008,Developing,55.7,87.0,140,9.0,87.0
+Zambia,2007,Developing,52.6,8.0,535,77.0,8.0
+Zambia,2006,Developing,58.0,81.0,459,83.0,81.0
+Zambia,2005,Developing,49.3,82.0,45,84.0,82.0
+Zimbabwe,2015,Developing,67.0,87.0,0,88.0,87.0
+Zimbabwe,2014,Developing,59.2,91.0,0,92.0,91.0
+Zimbabwe,2013,Developing,58.0,95.0,0,95.0,95.0
+Zimbabwe,2012,Developing,56.6,97.0,0,95.0,95.0
+Zimbabwe,2011,Developing,54.9,94.0,0,93.0,93.0
+Zimbabwe,2010,Developing,52.4,9.0,9696,89.0,89.0
+Zimbabwe,2009,Developing,50.0,73.0,853,69.0,73.0
+Zimbabwe,2008,Developing,48.2,75.0,0,75.0,75.0
+Zimbabwe,2007,Developing,46.6,72.0,242,73.0,73.0
+Zimbabwe,2006,Developing,45.4,68.0,212,71.0,7.0
+Zimbabwe,2005,Developing,44.6,65.0,420,69.0,68.0
+Zimbabwe,2004,Developing,44.3,68.0,31,67.0,65.0
+Zimbabwe,2003,Developing,44.5,7.0,998,7.0,68.0
+Zimbabwe,2002,Developing,44.8,73.0,304,73.0,71.0
+Zimbabwe,2001,Developing,45.3,76.0,529,76.0,75.0
+Zimbabwe,2000,Developing,46.0,79.0,1483,78.0,78.0
